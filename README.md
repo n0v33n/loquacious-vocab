@@ -57,6 +57,8 @@ python3 -m http.server 8080
    ```bash
    git remote add origin https://github.com/<your-username>/loquacious-vocab.git
    git push -u origin main
+   git remote add remo https://github.com/n0v33n/loquacious-vocabs.git
+   git push -u remo main
    ```
    (GitHub will show you this exact command on the empty repo's page —
    you can copy it from there instead of retyping your username.)

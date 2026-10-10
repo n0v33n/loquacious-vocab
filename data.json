@@ -2,27 +2,27 @@
  "categories": [
   {
    "id": "praise",
-   "title": "Praise / Approval / Support"
+   "title": "Praise / Admiration / Honor"
   },
   {
    "id": "criticism",
-   "title": "Criticism / Disapproval / Attack"
+   "title": "Criticism / Condemnation / Insult"
   },
   {
    "id": "reduce",
-   "title": "Reduce / Weaken / Lessen"
+   "title": "Reduce / Weaken / Prevent / Remove"
   },
   {
    "id": "increase",
-   "title": "Increase / Strengthen / Grow"
+   "title": "Increase / Strengthen / Spread"
   },
   {
    "id": "unclear",
-   "title": "Unclear / Confusing / Hard to Understand"
+   "title": "Unclear / Confusing / Obscure"
   },
   {
    "id": "clear",
-   "title": "Clear / Obvious / Easy to See"
+   "title": "Clear / Obvious / Precise"
   },
   {
    "id": "old",
@@ -30,15 +30,19 @@
   },
   {
    "id": "neworig",
-   "title": "New / Original / Unprecedented"
+   "title": "New / Original / Beginning"
   },
   {
    "id": "bold",
-   "title": "Bold / Aggressive / Forceful"
+   "title": "Bold / Forceful / Impulsive"
+  },
+  {
+   "id": "pride",
+   "title": "Pride / Arrogance / Smugness"
   },
   {
    "id": "careful",
-   "title": "Careful / Cautious / Restrained"
+   "title": "Careful / Cautious / Moderate"
   },
   {
    "id": "fake",
@@ -46,15 +50,15 @@
   },
   {
    "id": "stubborn",
-   "title": "Stubborn / Rigid / Unyielding"
+   "title": "Stubborn / Rigid / Intolerant"
   },
   {
    "id": "changeable",
-   "title": "Changeable / Unpredictable / Unstable"
+   "title": "Changeable / Irregular / Unpredictable"
   },
   {
    "id": "brief",
-   "title": "Brief / Short / Temporary"
+   "title": "Time: Brief / Temporary / Lasting / Concise"
   },
   {
    "id": "wordy",
@@ -66,79 +70,99 @@
   },
   {
    "id": "kind",
-   "title": "Kind / Generous / Positive"
+   "title": "Kind / Generous / Friendly"
   },
   {
    "id": "boring",
-   "title": "Boring / Dull / Unremarkable"
-  },
-  {
-   "id": "hifreq",
-   "title": "High-Frequency Pairs"
+   "title": "Boring / Trivial / Ordinary"
   },
   {
    "id": "talk",
-   "title": "Talkative / Silent / Reserved"
+   "title": "Speech: Talkative / Silent / Eloquent"
   },
   {
    "id": "emotion",
-   "title": "Emotions & Moods"
+   "title": "Emotions: Joy / Calm / Indifference"
   },
   {
-   "id": "skill",
-   "title": "Skilled / Clumsy / Clever"
-  },
-  {
-   "id": "diligence",
-   "title": "Diligent / Careless / Thorough"
-  },
-  {
-   "id": "money",
-   "title": "Money / Wealth / Frugality"
-  },
-  {
-   "id": "tradition",
-   "title": "Tradition / Rebellion / Convention"
-  },
-  {
-   "id": "belief",
-   "title": "Belief / Persuasion / Skepticism"
-  },
-  {
-   "id": "society",
-   "title": "Society / Politics / Fairness"
-  },
-  {
-   "id": "nature",
-   "title": "Nature / Science (Passage Vocab)"
-  },
-  {
-   "id": "arts",
-   "title": "Arts / Aesthetics / Style"
-  },
-  {
-   "id": "simple",
-   "title": "Simple / Humble / Plain"
-  },
-  {
-   "id": "misc",
-   "title": "Miscellaneous / Other"
+   "id": "sorrow",
+   "title": "Sadness / Fear / Distress"
   },
   {
    "id": "anger",
-   "title": "Anger / Irritability / Temper"
+   "title": "Anger / Irritability / Complaint"
+  },
+  {
+   "id": "skill",
+   "title": "Skill / Intelligence / Clumsiness"
+  },
+  {
+   "id": "diligence",
+   "title": "Diligence / Laziness / Carelessness"
+  },
+  {
+   "id": "money",
+   "title": "Money / Wealth / Thrift / Poverty"
+  },
+  {
+   "id": "tradition",
+   "title": "Tradition / Convention / Propriety"
+  },
+  {
+   "id": "rebel",
+   "title": "Rebellion / Eccentricity / Oddness"
+  },
+  {
+   "id": "belief",
+   "title": "Belief / Faith / Argument / Skepticism"
+  },
+  {
+   "id": "society",
+   "title": "Society / Politics / Law"
+  },
+  {
+   "id": "nature",
+   "title": "Nature / Science / Places"
+  },
+  {
+   "id": "arts",
+   "title": "Arts / Music / Style"
+  },
+  {
+   "id": "simple",
+   "title": "Simple / Humble / Innocent"
   },
   {
    "id": "corrupt",
-   "title": "Greed / Corruption / Bribery"
+   "title": "Greed / Corruption / Immorality"
   },
   {
    "id": "servile",
-   "title": "Submissive / Servile / Obedient"
+   "title": "Submissive / Servile / Pliable"
   },
   {
    "id": "fearless",
-   "title": "Fearless / Powerful / Resolute"
+   "title": "Fearless / Resolute / Powerful"
+  },
+  {
+   "id": "quantity",
+   "title": "Quantity: Abundance / Scarcity / Degree"
+  },
+  {
+   "id": "mix",
+   "title": "Mixing / Complexity / Combination"
+  },
+  {
+   "id": "foresee",
+   "title": "Omens / Chance / Consequences"
+  },
+  {
+   "id": "pleasure",
+   "title": "Pleasure / Indulgence / Appetite"
+  },
+  {
+   "id": "relation",
+   "title": "Relations: Similar / Different / Necessary"
   }
  ],
  "words": [
@@ -191,7 +215,7 @@
    "word": "espouse",
    "equivalents": "champion, advocate, defend",
    "meaning": "to support or adopt a cause",
-   "category": "praise",
+   "category": "belief",
    "source": "list",
    "mnemonic": "\"a-spouse\" - You 'adopt' a spouse's beliefs as your own once you marry them, just as one espouses a cause.",
    "example": "The senator has long espoused stricter environmental regulations."
@@ -200,7 +224,7 @@
    "word": "buttress",
    "equivalents": "bolster, prop up",
    "meaning": "to support, reinforce",
-   "category": "praise",
+   "category": "increase",
    "source": "list",
    "mnemonic": "\"butt-rest\" - A buttress is a wall that 'rests against' a building to support and reinforce it.",
    "example": "Fresh evidence buttressed the prosecution's case against the defendant."
@@ -209,7 +233,7 @@
    "word": "sanction",
    "equivalents": "endorse, countenance",
    "meaning": "to officially approve",
-   "category": "praise",
+   "category": "society",
    "source": "list",
    "mnemonic": "\"sang-song\" - I sang a song after 'getting permission' from my neighbors, and now those neighbors will always remind me of this word!",
    "example": "The authorities have sanctioned the use of the wilderness reserve for public use; many expect to see hikers and campers enjoying the park in the coming months."
@@ -596,7 +620,7 @@
    "word": "truculent",
    "equivalents": "pugnacious, bellicose, combative",
    "meaning": "eager to fight, aggressive",
-   "category": "bold",
+   "category": "hostile",
    "source": "list",
    "mnemonic": "\"truck-you-lent\" - A truck driver who 'lent' you his aggressive attitude is truculent, eager to fight.",
    "example": "The truculent customer shouted at the staff over a minor billing error."
@@ -605,7 +629,7 @@
    "word": "belligerent",
    "equivalents": "pugnacious",
    "meaning": "hostile, ready to fight",
-   "category": "bold",
+   "category": "hostile",
    "source": "list",
    "mnemonic": "\"bell-igerent\" - Ringing the war 'bell' signals a belligerent, hostile nation ready to fight.",
    "example": "The belligerent fans hurled insults at the referee after the call."
@@ -632,7 +656,7 @@
    "word": "zealot",
    "equivalents": "extremist, ideologue",
    "meaning": "a fanatical believer",
-   "category": "bold",
+   "category": "belief",
    "source": "list",
    "mnemonic": "\"zeal-ot\" - Someone overflowing with 'zeal' becomes a zealot, a fanatical extreme believer.",
    "example": "The party expelled the zealot who refused to compromise on any issue."
@@ -668,7 +692,7 @@
    "word": "spartan",
    "equivalents": "austere",
    "meaning": "rigorously simple, bare",
-   "category": "careful",
+   "category": "simple",
    "source": "list",
    "mnemonic": "\"Spartan\" - Named after ancient Sparta, whose warriors lived a rigorously simple, bare lifestyle.",
    "example": "The monastery offered nothing but a spartan room with a bed and a candle."
@@ -677,7 +701,7 @@
    "word": "frugal",
    "equivalents": "thrifty",
    "meaning": "economical, avoiding waste",
-   "category": "careful",
+   "category": "money",
    "source": "list",
    "mnemonic": "\"frugal\" sounds like \"fruit-gal\" - The frugal girl only eats fruit she grows herself to avoid wasting money.",
    "example": "Growing up during the recession made her extremely frugal with money."
@@ -722,7 +746,7 @@
    "word": "sycophantic",
    "equivalents": "obsequious",
    "meaning": "flattering in a servile way",
-   "category": "fake",
+   "category": "servile",
    "source": "list",
    "mnemonic": "\"sicko-fan-tic\" - A 'sick fan' flatters their idol excessively, being sycophantic and servile.",
    "example": "The sycophantic assistant agreed with everything the boss said, however absurd."
@@ -857,7 +881,7 @@
    "word": "loquacious",
    "equivalents": "garrulous",
    "meaning": "tending to talk too much",
-   "category": "wordy",
+   "category": "talk",
    "source": "list",
    "mnemonic": "\"low-quack-ious\" - Ducks that 'quack' non-stop are loquacious, unable to stop talking.",
    "example": "My loquacious uncle can talk for hours about his garden."
@@ -875,7 +899,7 @@
    "word": "profligate",
    "equivalents": "extravagant, prodigal",
    "meaning": "recklessly wasteful",
-   "category": "wordy",
+   "category": "money",
    "source": "list",
    "mnemonic": "\"profit-gate\" - Someone who lets 'profit' flow out the gate carelessly is profligate, recklessly wasteful.",
    "example": "The profligate heir spent his entire fortune within five years."
@@ -884,7 +908,7 @@
    "word": "intemperate",
    "equivalents": "excessive",
    "meaning": "lacking moderation",
-   "category": "wordy",
+   "category": "pleasure",
    "source": "list",
    "mnemonic": "\"in-temperate\" - The opposite of temperate (moderate); intemperate behavior lacks all restraint.",
    "example": "His intemperate drinking eventually cost him his job."
@@ -920,7 +944,7 @@
    "word": "vitriolic",
    "equivalents": "acerbic, caustic, mordant",
    "meaning": "bitterly harsh or critical",
-   "category": "hostile",
+   "category": "criticism",
    "source": "list",
    "mnemonic": "\"vitriol-ic\" - Vitriol is a corrosive acid; vitriolic words burn just as bitterly and harshly.",
    "example": "The critic's vitriolic review left the young author in tears."
@@ -1019,7 +1043,7 @@
    "word": "anomaly",
    "equivalents": "aberration, irregularity",
    "meaning": "something that deviates from normal",
-   "category": "hifreq",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "\"a-normal-y\" - An anomaly is 'not normal', a deviation from the expected pattern.",
    "example": "The sudden temperature spike was an anomaly in the data set."
@@ -1028,7 +1052,7 @@
    "word": "exonerate",
    "equivalents": "absolve, vindicate",
    "meaning": "to clear of blame",
-   "category": "hifreq",
+   "category": "society",
    "source": "list",
    "mnemonic": "\"ex-won't-rape\" - That claim about her ex raping her was just made with the mindset of taking revenge for some personal issues and hence her ex was 'freed from that criminal charge' (exonerated).",
    "example": "The document clearly indicated that Nick was out of the state at the time of the crime, and so served to exonerate him of any charges."
@@ -1037,7 +1061,7 @@
    "word": "analogous",
    "equivalents": "comparable",
    "meaning": "similar in certain respects",
-   "category": "hifreq",
+   "category": "relation",
    "source": "list",
    "mnemonic": "\"a-nalogous\" sounds like \"analogy\" - An analogous situation is like an analogy, comparable in certain respects.",
    "example": "Running a company is analogous to steering a ship through changing weather."
@@ -1046,7 +1070,7 @@
    "word": "indispensable",
    "equivalents": "essential, crucial",
    "meaning": "absolutely necessary",
-   "category": "hifreq",
+   "category": "relation",
    "source": "list",
    "mnemonic": "\"in-dispense-able\" - Something that cannot be 'dispensed with' is indispensable, absolutely necessary.",
    "example": "Her organizational skills made her an indispensable member of the team."
@@ -1055,7 +1079,7 @@
    "word": "ubiquitous",
    "equivalents": "omnipresent, universal",
    "meaning": "present everywhere",
-   "category": "hifreq",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"u-bik-witous\" sounds like \"you-be-quick-witted\" - Smartphones have become so ubiquitous you see them everywhere, quick as a wink.",
    "example": "Coffee shops have become ubiquitous in every corner of the city."
@@ -1064,7 +1088,7 @@
    "word": "perennial",
    "equivalents": "long-standing, constant",
    "meaning": "lasting for an indefinite time",
-   "category": "hifreq",
+   "category": "brief",
    "source": "list",
    "mnemonic": "\"per-ennial\" - Perennial plants bloom every year, lasting for an indefinite time.",
    "example": "Traffic congestion is a perennial problem in the downtown area."
@@ -1073,7 +1097,7 @@
    "word": "pragmatic",
    "equivalents": "realistic",
    "meaning": "dealing with things practically",
-   "category": "hifreq",
+   "category": "skill",
    "source": "list",
    "mnemonic": "\"prag-matic\" sounds like \"practical-matic\" - A pragmatic robot always chooses the most practical, realistic solution.",
    "example": "She took a pragmatic approach, focusing on what would actually work."
@@ -1082,7 +1106,7 @@
    "word": "impartial",
    "equivalents": "evenhanded, disinterested",
    "meaning": "treating all fairly, unbiased",
-   "category": "hifreq",
+   "category": "society",
    "source": "list",
    "mnemonic": "\"im-partial\" - The opposite of 'partial' (biased); an impartial judge takes no side.",
    "example": "The impartial referee made sure both teams were treated fairly."
@@ -1091,7 +1115,7 @@
    "word": "heterogeneous",
    "equivalents": "disparate, dissimilar",
    "meaning": "diverse, made up of different things",
-   "category": "hifreq",
+   "category": "relation",
    "source": "list",
    "mnemonic": "\"hetero-genus\" - 'Hetero' means different; a heterogeneous mix contains genuinely different kinds of things.",
    "example": "The classroom was wonderfully heterogeneous, with students from a dozen countries."
@@ -1100,7 +1124,7 @@
    "word": "circumvent",
    "equivalents": "bypass, sidestep",
    "meaning": "to find a way around",
-   "category": "hifreq",
+   "category": "skill",
    "source": "list",
    "mnemonic": "\"Sir-came-and-went\" - Our sir just came and went during the exams to 'cleverly' show his presence while 'avoiding his duties'.",
    "example": "One way of circumventing the GRE is to apply to a grad school that does not require GRE scores."
@@ -1109,7 +1133,7 @@
    "word": "relinquish",
    "equivalents": "cede, abandon",
    "meaning": "to give up, let go of",
-   "category": "hifreq",
+   "category": "reduce",
    "source": "list",
    "mnemonic": "\"re-link-wish\" - You 'wish' to unlink and let go, relinquishing your grip on something.",
    "example": "The king was forced to relinquish his throne after the revolution."
@@ -1118,7 +1142,7 @@
    "word": "quixotic",
    "equivalents": "idealistic",
    "meaning": "unrealistically optimistic",
-   "category": "hifreq",
+   "category": "belief",
    "source": "list",
    "mnemonic": "\"Quixote\" - Named after Don Quixote, whose unrealistically idealistic quests never quite matched reality.",
    "example": "His quixotic plan to end world hunger single-handedly impressed but worried his friends."
@@ -1127,7 +1151,7 @@
    "word": "voracious",
    "equivalents": "prodigious, insatiable",
    "meaning": "having a huge appetite (literal or figurative)",
-   "category": "hifreq",
+   "category": "pleasure",
    "source": "list",
    "mnemonic": "\"vora-cious\" sounds like \"devour-cious\" - A voracious eater devours food with an insatiable appetite.",
    "example": "The voracious reader finished three novels in a single week."
@@ -1136,7 +1160,7 @@
    "word": "perfunctory",
    "equivalents": "cursory, casual",
    "meaning": "done without care or interest",
-   "category": "hifreq",
+   "category": "diligence",
    "source": "list",
    "mnemonic": "\"perform-function-hurry\" - We do some 'routine boring work' generally in a hurry (without taking much care) so as to finish it quickly, and now that kind of work won't let us forget this word!",
    "example": "The short film examines modern perfunctory cleaning rituals such as washing dishes, doing laundry and tooth-brushing."
@@ -1145,7 +1169,7 @@
    "word": "supplant",
    "equivalents": "supersede",
    "meaning": "to replace, take the position of",
-   "category": "hifreq",
+   "category": "neworig",
    "source": "list",
    "mnemonic": "\"sup-plant\" - You 'plant' yourself in someone else's spot, supplanting and replacing them.",
    "example": "Streaming services have largely supplanted DVD rentals."
@@ -1154,7 +1178,7 @@
    "word": "erudite",
    "equivalents": "learned, scholarly",
    "meaning": "possessing deep knowledge from wide reading",
-   "category": "praise",
+   "category": "skill",
    "source": "chat",
    "mnemonic": "\"eru-dite\" sounds like \"a-rude-light\" shining on knowledge - An erudite scholar's rude glare of intelligence shows deep learning.",
    "example": "The erudite professor could discuss anything from astrophysics to poetry."
@@ -1190,7 +1214,7 @@
    "word": "carousing",
    "equivalents": "reveling, partying",
    "meaning": "drinking and enjoying oneself noisily",
-   "category": "misc",
+   "category": "pleasure",
    "source": "chat",
    "mnemonic": "\"carousel-ing\" - Riding a wild carousel all night while carousing, reveling and partying loudly.",
    "example": "The sailors spent their shore leave carousing in the port town."
@@ -1226,7 +1250,7 @@
    "word": "revelry",
    "equivalents": "merrymaking",
    "meaning": "noisy festivities or celebration",
-   "category": "misc",
+   "category": "pleasure",
    "source": "chat",
    "mnemonic": "\"revel-ry\" - To 'revel' is to enjoy oneself; revelry is the noisy merrymaking that follows.",
    "example": "The village square was filled with music and revelry on New Year's Eve."
@@ -1244,7 +1268,7 @@
    "word": "piecemeal",
    "equivalents": "fragmentary",
    "meaning": "done in stages, not all at once",
-   "category": "misc",
+   "category": "brief",
    "source": "chat",
    "mnemonic": "\"piece-meal\" - Done a 'piece' at a time, like eating a meal course by course, piecemeal work happens in stages.",
    "example": "The old house was renovated piecemeal over several years."
@@ -1262,7 +1286,7 @@
    "word": "indulgent",
    "equivalents": "lenient, permissive",
    "meaning": "allowing oneself or others pleasure freely",
-   "category": "kind",
+   "category": "pleasure",
    "source": "chat",
    "mnemonic": "\"in-dulge-ent\" - Related to 'indulge'; an indulgent parent freely allows pleasures without limits.",
    "example": "Grandparents are often more indulgent than parents when it comes to sweets."
@@ -1289,7 +1313,7 @@
    "word": "serendipity",
    "equivalents": "fortunate chance",
    "meaning": "the occurrence of happy accidents",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"serene-dip-ity\" - A serene, happy 'dip' into an accidental discovery is serendipity, fortunate chance.",
    "example": "Meeting his future business partner on a delayed flight was pure serendipity."
@@ -1379,7 +1403,7 @@
    "word": "seldom",
    "equivalents": "rarely",
    "meaning": "not often",
-   "category": "misc",
+   "category": "quantity",
    "source": "chat",
    "mnemonic": "\"sell-dom\" - A shop that 'sells' something seldom, rarely stocks it.",
    "example": "She seldom eats out, preferring to cook at home."
@@ -1388,7 +1412,7 @@
    "word": "susceptible",
    "equivalents": "prone, vulnerable",
    "meaning": "likely to be influenced or harmed by something",
-   "category": "misc",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"sus-cept-ible\" sounds like \"suspect-able\" - Someone easily 'suspected' or influenced is susceptible, vulnerable to something.",
    "example": "Young children are especially susceptible to colds in winter."
@@ -1406,7 +1430,7 @@
    "word": "morbid",
    "equivalents": "gruesome, macabre",
    "meaning": "having an unhealthy interest in death",
-   "category": "hostile",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"mor-bid\" sounds like \"more-bid\" for death - A morbid curiosity places a higher 'bid' on death and gruesome things.",
    "example": "He had a morbid fascination with true crime stories."
@@ -1415,7 +1439,7 @@
    "word": "startling",
    "equivalents": "astonishing, surprising",
    "meaning": "causing sudden shock or surprise",
-   "category": "misc",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"start-ling\" - Something so sudden it makes you 'start' (jump) is startling, causing shock.",
    "example": "The startling news left the whole office in stunned silence."
@@ -1433,7 +1457,7 @@
    "word": "repercussions",
    "equivalents": "consequences, ramifications",
    "meaning": "indirect, often unintended, effects of an event",
-   "category": "hifreq",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"re-percussion\" - Like a drum's percussion echoing back, repercussions are the after-effects of an event.",
    "example": "Ignoring the safety warning had serious repercussions for the factory."
@@ -1442,7 +1466,7 @@
    "word": "precocious",
    "equivalents": "advanced, gifted",
    "meaning": "showing mature abilities at an early age",
-   "category": "misc",
+   "category": "skill",
    "source": "chat",
    "mnemonic": "\"pre-cook-ious\" - A child 'pre-cooked' with talent beyond their years is precocious, advanced early.",
    "example": "The precocious six-year-old was already reading novels meant for teenagers."
@@ -1487,7 +1511,7 @@
    "word": "transgressions",
    "equivalents": "violations, offenses",
    "meaning": "acts that break a law or moral code",
-   "category": "criticism",
+   "category": "corrupt",
    "source": "chat",
    "mnemonic": "\"trans-gress-ions\" - To 'gress' means to step; transgressions are steps taken across a moral or legal line.",
    "example": "He asked forgiveness for his past transgressions."
@@ -1496,7 +1520,7 @@
    "word": "hortatory",
    "equivalents": "exhortative",
    "meaning": "urging strongly, encouraging action",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"horta-tory\" sounds like \"hurter-tory\" (urging you on) - A coach's hortatory speech urges the team into action.",
    "example": "The general delivered a hortatory address before the final battle."
@@ -1523,7 +1547,7 @@
    "word": "extant",
    "equivalents": "existing, surviving",
    "meaning": "still in existence, not extinct or destroyed",
-   "category": "misc",
+   "category": "old",
    "source": "chat",
    "mnemonic": "\"ex-tant\" sounds like \"existent\" - Extant simply means still existent, surviving today.",
    "example": "Only a handful of the ancient manuscripts are still extant."
@@ -1550,7 +1574,7 @@
    "word": "retrofitting",
    "equivalents": "upgrading, refitting",
    "meaning": "adding new parts or technology to something older",
-   "category": "misc",
+   "category": "neworig",
    "source": "chat",
    "mnemonic": "\"retro-fitting\" - Fitting old, 'retro' technology with new parts is retrofitting, upgrading something older.",
    "example": "The old factory was retrofitted with solar panels to cut energy costs."
@@ -1595,7 +1619,7 @@
    "word": "prescient",
    "equivalents": "foresighted, clairvoyant",
    "meaning": "having knowledge of events before they happen",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"pre-science\" - Knowing something with 'pre-science', before science can prove it, means being prescient, foreseeing events.",
    "example": "Her prescient warning about the market crash proved accurate months later."
@@ -1613,7 +1637,7 @@
    "word": "fortuitous",
    "equivalents": "lucky, serendipitous",
    "meaning": "happening by fortunate accident or chance",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "It feels and means like \"fortune-us\"!",
    "example": "Though Maria's neighbor Ernie \"bumped into\" her at the Farmer's Market, the encounter wasn't nearly as fortuitous as Maria was led to believe: Ernie desperately wanted to ask Maria out on a date and had been following her about town."
@@ -1622,7 +1646,7 @@
    "word": "pretensions",
    "equivalents": "affectations, airs",
    "meaning": "claims to a quality one does not possess",
-   "category": "fake",
+   "category": "pride",
    "source": "chat",
    "mnemonic": "\"pre-tension\" sounds like \"pretend-tions\" - Pretensions are like pretend claims to tension, or airs, one doesn't truly have.",
    "example": "Despite his pretensions to expertise, he knew very little about wine."
@@ -1631,7 +1655,7 @@
    "word": "blemishes",
    "equivalents": "flaws, imperfections",
    "meaning": "marks that spoil an appearance",
-   "category": "misc",
+   "category": "criticism",
    "source": "chat",
    "mnemonic": "\"blemish-es\" - A blemish is a small flaw or mark that spoils an otherwise clean surface.",
    "example": "The report highlighted a few blemishes in an otherwise strong quarter."
@@ -1640,7 +1664,7 @@
    "word": "incensed",
    "equivalents": "enraged, infuriated",
    "meaning": "very angry",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"in-scent-sed\" sounds like \"incense-d\" - Burning incense fills a room with intense smoke, just as being incensed fills someone with intense anger.",
    "example": "Fans were incensed when the concert was cancelled at the last minute."
@@ -1649,7 +1673,7 @@
    "word": "iconoclastic",
    "equivalents": "unorthodox, rebellious",
    "meaning": "attacking cherished beliefs or institutions",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"icon-o-clastic\" - An iconoclast smashes 'icons' (idols); iconoclastic ideas attack cherished beliefs.",
    "example": "The artist's iconoclastic sculptures challenged traditional notions of beauty."
@@ -1703,7 +1727,7 @@
    "word": "disparate",
    "equivalents": "dissimilar, distinct",
    "meaning": "essentially different, incongruous",
-   "category": "hifreq",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"dis-parate\" sounds like \"dis-pair-it\" - Things too different to pair up are disparate, essentially dissimilar.",
    "example": "The committee brought together disparate viewpoints from across the industry."
@@ -1712,7 +1736,7 @@
    "word": "panacea",
    "equivalents": "cure-all, elixir",
    "meaning": "a solution meant to solve all problems",
-   "category": "misc",
+   "category": "reduce",
    "source": "chat",
    "mnemonic": "\"pan-a-cea\" - 'Pan' means all; a panacea is a cure-all for all ailments.",
    "example": "There's no panacea for the economy's structural problems."
@@ -1721,7 +1745,7 @@
    "word": "harbinger",
    "equivalents": "herald, precursor",
    "meaning": "a person or thing that signals the approach of another",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"harbor-ginger\" - A ginger cat spotted at the harbor was seen as a harbinger, a sign of the ship's arrival.",
    "example": "Falling leaves are a harbinger of the coming winter."
@@ -1730,7 +1754,7 @@
    "word": "herald",
    "equivalents": "harbinger, proclaim",
    "meaning": "to signal the approach of, or announce",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"her-ald\" sounds like \"herald\" the town crier - A town herald announces news, heralding what's to come.",
    "example": "The first robin of spring heralds the end of winter."
@@ -1784,7 +1808,7 @@
    "word": "intriguing",
    "equivalents": "fascinating, captivating",
    "meaning": "arousing curiosity or interest",
-   "category": "misc",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"in-trig-uing\" sounds like \"in-trick-ing\" - An intriguing puzzle tricks your curiosity, fascinating you.",
    "example": "The museum's new exhibit offered an intriguing look into ancient Egypt."
@@ -1856,7 +1880,7 @@
    "word": "oratorical",
    "equivalents": "rhetorical",
    "meaning": "relating to formal public speaking",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"orator-ical\" - Related to 'orator'; oratorical skills relate to formal public speaking.",
    "example": "His oratorical talent was evident from his very first speech."
@@ -1910,7 +1934,7 @@
    "word": "debacle",
    "equivalents": "fiasco, disaster",
    "meaning": "a sudden humiliating failure",
-   "category": "misc",
+   "category": "hostile",
    "source": "chat",
    "mnemonic": "\"de-bacle\" sounds like \"the-battle\" gone wrong - A battle that goes completely wrong becomes a debacle, a humiliating failure.",
    "example": "The product launch turned into a total debacle when the app crashed on stage."
@@ -1919,7 +1943,7 @@
    "word": "vindicated",
    "equivalents": "exonerated, justified",
    "meaning": "cleared of blame or suspicion",
-   "category": "praise",
+   "category": "society",
    "source": "chat",
    "mnemonic": "\"vin-dic-ated\" sounds like \"win-dictated\" - Winning the argument the dictionary dictated, he was vindicated, cleared of blame.",
    "example": "Years later, the scientist was vindicated when new data confirmed his theory."
@@ -1946,7 +1970,7 @@
    "word": "juxtapose",
    "equivalents": "contrast, compare",
    "meaning": "to place side by side for comparison",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"just-a-pose\" - Strikingly different models were made to stand 'side by side' for just a pose.",
    "example": "The appeal of her paintings comes from a classical style which is juxtaposed with modern themes."
@@ -1955,7 +1979,7 @@
    "word": "coinages",
    "equivalents": "neologisms, inventions",
    "meaning": "newly invented words or phrases",
-   "category": "arts",
+   "category": "neworig",
    "source": "chat",
    "mnemonic": "\"coin-ages\" - Just as a mint 'coins' new money, coinages are newly invented words.",
    "example": "Shakespeare is credited with hundreds of coinages still used in English today."
@@ -1964,7 +1988,7 @@
    "word": "emulate",
    "equivalents": "imitate, mimic",
    "meaning": "to try to match or surpass by imitation",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"emu-late\" sounds like \"a-mule-ate\" - A young mule imitates its mother's every move, emulating her.",
    "example": "Young athletes often emulate their favorite professional players."
@@ -1973,7 +1997,7 @@
    "word": "alienated",
    "equivalents": "estranged, isolated",
    "meaning": "made to feel isolated or unwelcome",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"alien-ated\" - Treated like an 'alien' among the group, an alienated person feels isolated.",
    "example": "Moving to a new country left him feeling alienated from his old friends."
@@ -2000,7 +2024,7 @@
    "word": "didactic",
    "equivalents": "instructive, moralistic",
    "meaning": "intended to teach, often excessively so",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "Somewhat feels and means like \"dictative\"!... as when we dictate we also instruct.",
    "example": "Tolstoy's The Death of Ivan Ilyich is a didactic novel, instructing the reader on how to live a good life."
@@ -2036,7 +2060,7 @@
    "word": "flout",
    "equivalents": "defy, disregard",
    "meaning": "to openly disregard a rule or convention",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"flout\" sounds like \"float away rules\" - Someone who lets the rules float away is flouting them, openly disregarding them.",
    "example": "The company flouted safety regulations to cut costs."
@@ -2063,7 +2087,7 @@
    "word": "dwelling",
    "equivalents": "residence, abode",
    "meaning": "a house or place of residence",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"dwell-ing\" - To 'dwell' somewhere is to live there; a dwelling is simply a place of residence.",
    "example": "The ancient dwelling had been carved directly into the cliffside."
@@ -2072,7 +2096,7 @@
    "word": "pueblo",
    "equivalents": "village, settlement",
    "meaning": "a type of communal village (esp. in the American Southwest)",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"pueblo\" - Spanish for 'town/village'; a pueblo is a small communal settlement, especially in the Southwest US.",
    "example": "The archaeologists explored an ancient pueblo built into the canyon wall."
@@ -2081,7 +2105,7 @@
    "word": "cohort",
    "equivalents": "group, companion",
    "meaning": "a group of people with a shared characteristic",
-   "category": "misc",
+   "category": "society",
    "source": "chat",
    "mnemonic": "\"co-hort\" sounds like \"co-horde\" - A group moving together like a horde is a cohort, sharing a common trait.",
    "example": "The study followed a cohort of a thousand students over ten years."
@@ -2090,7 +2114,7 @@
    "word": "surly",
    "equivalents": "sullen, bad-tempered",
    "meaning": "rude and unfriendly in manner",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"sur-ly\" sounds like \"sir-lee\" grumpy - The grumpy old \"sir\" was surly and rude to every customer.",
    "example": "The surly waiter barely spoke to us the entire meal."
@@ -2099,7 +2123,7 @@
    "word": "sullen",
    "equivalents": "surly, morose",
    "meaning": "bad-tempered and gloomily silent",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"sull-en\" sounds like \"sulk-en\" - Someone who sulks in silence becomes sullen, bad-tempered and gloomy.",
    "example": "The teenager sat in sullen silence throughout the family dinner."
@@ -2126,7 +2150,7 @@
    "word": "veracious",
    "equivalents": "truthful, honest",
    "meaning": "habitually speaking the truth",
-   "category": "fake",
+   "category": "clear",
    "source": "chat",
    "mnemonic": "\"vera-cious\" sounds like \"very-precious\" truth - Truth is very precious to a veracious person who always tells it.",
    "example": "The veracious witness gave a truthful account of the accident."
@@ -2135,7 +2159,7 @@
    "word": "fecklessness",
    "equivalents": "irresponsibility",
    "meaning": "lack of initiative or sense of responsibility",
-   "category": "misc",
+   "category": "diligence",
    "source": "chat",
    "mnemonic": "\"feck-less-ness\" - Being 'feckless' (without effect) leads to fecklessness, a lack of responsibility.",
    "example": "His fecklessness with money left the family constantly in debt."
@@ -2180,7 +2204,7 @@
    "word": "clangorous",
    "equivalents": "resounding, loud",
    "meaning": "making a loud, ringing metallic sound",
-   "category": "misc",
+   "category": "arts",
    "source": "chat",
    "mnemonic": "\"clang-orous\" - Related to 'clang' (a loud metal sound); clangorous bells ring loud and resounding.",
    "example": "The clangorous church bells woke the entire village at dawn."
@@ -2252,7 +2276,7 @@
    "word": "ameliorate",
    "equivalents": "improve, mitigate",
    "meaning": "to make a bad situation better",
-   "category": "reduce",
+   "category": "increase",
    "source": "chat",
    "mnemonic": "\"Amul-rate\" - Amul is a milk brand which recently slashed their rates to help the people affected from drought and it helped a lot in 'making the situation better'.",
    "example": "\"Three Cups of Tea\" tells the story of a western man who hopes to ameliorate poverty and the lack of education in Afghanistan."
@@ -2261,7 +2285,7 @@
    "word": "derelict",
    "equivalents": "abandoned, negligent",
    "meaning": "deserted, or failing in one's duty",
-   "category": "misc",
+   "category": "diligence",
    "source": "chat",
    "mnemonic": "\"de-relic-t\" sounds like \"a-relic\" - An abandoned old relic building is derelict, deserted and falling apart.",
    "example": "The derelict warehouse had been empty for over twenty years."
@@ -2279,7 +2303,7 @@
    "word": "abreast",
    "equivalents": "informed, up-to-date",
    "meaning": "keeping up to date with developments",
-   "category": "misc",
+   "category": "skill",
    "source": "chat",
    "mnemonic": "\"a-breast\" sounds like \"a-breadth\" of news - Keeping a breadth of news close to your chest means staying abreast, up to date.",
    "example": "She reads the newspaper daily to stay abreast of current events."
@@ -2306,7 +2330,7 @@
    "word": "copious",
    "equivalents": "abundant, plentiful",
    "meaning": "in great quantities",
-   "category": "increase",
+   "category": "quantity",
    "source": "chat",
    "mnemonic": "\"cop-ious\" sounds like \"cop-i-ous\" pouring - Water pouring copiously fills a bucket in abundant quantities.",
    "example": "She took copious notes during the three-hour lecture."
@@ -2315,7 +2339,7 @@
    "word": "lurid",
    "equivalents": "sensational, shocking",
    "meaning": "presented in vivid, shocking detail",
-   "category": "misc",
+   "category": "wordy",
    "source": "chat",
    "mnemonic": "\"lur-id\" sounds like \"lure-id\" shocking tabloid - Tabloids lure readers with lurid, shocking headlines.",
    "example": "The tabloid published lurid details about the celebrity's divorce."
@@ -2324,7 +2348,7 @@
    "word": "deferential",
    "equivalents": "respectful, courteous",
    "meaning": "showing excessive respect toward others",
-   "category": "kind",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"defer-ential\" - To 'defer' is to yield to another; deferential behavior shows excessive respect.",
    "example": "The new intern was deferential toward every senior staff member."
@@ -2360,7 +2384,7 @@
    "word": "obsequious",
    "equivalents": "sycophantic, servile",
    "meaning": "excessively eager to please or obey",
-   "category": "fake",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"obsessed-kiss\" - She gave an obsessed kiss to her boss in order to 'win his favor'.",
    "example": "The obsequious waiter did not give the couple a moment's peace all through the meal, constantly returning to their table to refill their water glasses and to tell them what a handsome pair they made."
@@ -2369,7 +2393,7 @@
    "word": "resolute",
    "equivalents": "determined, steadfast",
    "meaning": "admirably firm and unwavering",
-   "category": "bold",
+   "category": "fearless",
    "source": "chat",
    "mnemonic": "\"re-solute\" sounds like \"re-solid\" - Someone standing solid and firm in their decision is resolute, determined.",
    "example": "Despite the criticism, she remained resolute in her decision."
@@ -2432,7 +2456,7 @@
    "word": "complacency",
    "equivalents": "self-satisfaction",
    "meaning": "smug satisfaction with one's own achievements",
-   "category": "boring",
+   "category": "pride",
    "source": "chat",
    "mnemonic": "\"com-place-ency\" sounds like \"comfortable-in-place\" - Sitting comfortably in place with no urge to improve is complacency, self-satisfaction.",
    "example": "The team's complacency after early wins led to a shocking defeat."
@@ -2450,7 +2474,7 @@
    "word": "fractiousness",
    "equivalents": "irritability",
    "meaning": "tendency to be quarrelsome or unruly",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"fraction-ous-ness\" - Breaking into 'fractions' (pieces) describes fractiousness, a tendency to quarrel and split apart.",
    "example": "The fractiousness of the coalition made passing any law nearly impossible."
@@ -2468,7 +2492,7 @@
    "word": "worthwhile",
    "equivalents": "valuable, beneficial",
    "meaning": "worth the time or effort spent",
-   "category": "misc",
+   "category": "praise",
    "source": "chat",
    "mnemonic": "\"worth-while\" - Literally worth the 'while' (time) spent; a worthwhile trip is valuable.",
    "example": "Learning a new language is always a worthwhile investment of time."
@@ -2495,7 +2519,7 @@
    "word": "significant",
    "equivalents": "notable, important",
    "meaning": "having great meaning or importance",
-   "category": "misc",
+   "category": "clear",
    "source": "chat",
    "mnemonic": "\"sign-ificant\" - Something that gives an important 'sign' is significant, notable and meaningful.",
    "example": "The discovery was significant enough to change the entire field of study."
@@ -2522,7 +2546,7 @@
    "word": "unpremeditated",
    "equivalents": "spontaneous, unplanned",
    "meaning": "not planned in advance",
-   "category": "misc",
+   "category": "changeable",
    "source": "chat",
    "mnemonic": "\"un-pre-meditated\" - The opposite of 'premeditated'; an unpremeditated act happens without any planning.",
    "example": "His unpremeditated outburst surprised even himself."
@@ -2531,7 +2555,7 @@
    "word": "malfeasance",
    "equivalents": "wrongdoing, misconduct",
    "meaning": "illegal or dishonest conduct, especially by an official",
-   "category": "criticism",
+   "category": "corrupt",
    "source": "chat",
    "mnemonic": "\"mal-feasance\" - 'Mal' means bad; malfeasance is bad, wrongful conduct, often by an official.",
    "example": "The mayor was removed from office after evidence of malfeasance surfaced."
@@ -2540,7 +2564,7 @@
    "word": "latitude",
    "equivalents": "freedom, leeway",
    "meaning": "freedom of action or thought",
-   "category": "misc",
+   "category": "society",
    "source": "chat",
    "mnemonic": "\"lat-itude\" sounds like \"lots-of-attitude\" freedom - Having lots of attitude and freedom to act as you please is latitude.",
    "example": "The manager gave her team a lot of latitude in how they organized their work."
@@ -2576,7 +2600,7 @@
    "word": "antinomian",
    "equivalents": "unconventional, rebellious",
    "meaning": "rejecting established moral or social rules",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"anti-nomian\" - 'Nomos' means law; an antinomian rejects established law and moral rules.",
    "example": "The cult's antinomian beliefs rejected all traditional moral codes."
@@ -2585,7 +2609,7 @@
    "word": "brine",
    "equivalents": "salt water",
    "meaning": "water saturated with salt",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"brine\" sounds like \"briny\" ocean water - Ocean water is naturally brine, salty water.",
    "example": "The pickles were soaked in a brine of vinegar and salt."
@@ -2621,7 +2645,7 @@
    "word": "crestfallen",
    "equivalents": "dejected, disheartened",
    "meaning": "sad and disappointed",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"chest-fallen\" - It feels and means like \"chest fallen\" i.e. heart broken as heart is inside the chest!",
    "example": "I asked Maria on a date and she refused without a moment's thought; I was crestfallen."
@@ -2648,7 +2672,7 @@
    "word": "disgruntled",
    "equivalents": "discontented, dissatisfied",
    "meaning": "angrily dissatisfied",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"dis-grunt-led\" - A 'grunt' of complaint leads someone to become disgruntled, dissatisfied and annoyed.",
    "example": "Disgruntled customers flooded the company with complaints."
@@ -2657,7 +2681,7 @@
    "word": "faraway",
    "equivalents": "distant, remote",
    "meaning": "far off in space or time",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"far-away\" - Literally far away; a faraway land is distant and remote.",
    "example": "She dreamed of visiting faraway places she had only read about."
@@ -2675,7 +2699,7 @@
    "word": "frantically",
    "equivalents": "wildly, desperately",
    "meaning": "in a hurried, uncontrolled manner, driven by fear",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"frantic-ally\" - Related to frantic; acting frantically means acting wildly and desperately.",
    "example": "She searched frantically for her lost passport before the flight."
@@ -2702,7 +2726,7 @@
    "word": "clerical",
    "equivalents": "priestly, ministerial",
    "meaning": "relating to the clergy, or to office work",
-   "category": "misc",
+   "category": "tradition",
    "source": "chat",
    "mnemonic": "\"clerical\" sounds like \"clergy-ical\" - Related to clergy, or to office 'clerk' work; clerical duties involve either priests or paperwork.",
    "example": "She spent her afternoons doing clerical work, filing and typing reports."
@@ -2729,7 +2753,7 @@
    "word": "incessant",
    "equivalents": "constant, unceasing",
    "meaning": "continuing without pause",
-   "category": "increase",
+   "category": "brief",
    "source": "chat",
    "mnemonic": "\"in-cess-ant\" sounds like \"in-cease-ant\" - Something that will not 'cease' is incessant, continuing without pause.",
    "example": "The incessant barking of the neighbor's dog kept us up all night."
@@ -2738,7 +2762,7 @@
    "word": "requisite",
    "equivalents": "necessary, essential",
    "meaning": "made necessary by particular circumstances",
-   "category": "hifreq",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"requi-site\" sounds like \"require-it\" - Something you 'require' is requisite, necessary for the task.",
    "example": "A valid passport is a requisite for international travel."
@@ -2792,7 +2816,7 @@
    "word": "consolidation",
    "equivalents": "unification, merging",
    "meaning": "the process of combining into a single whole",
-   "category": "increase",
+   "category": "mix",
    "source": "chat",
    "mnemonic": "\"con-solid-ation\" - To make 'solid' together; consolidation is the merging of separate things into one.",
    "example": "The bank merger led to the consolidation of dozens of branches."
@@ -2810,7 +2834,7 @@
    "word": "wakefulness",
    "equivalents": "alertness, insomnia",
    "meaning": "the state of being awake",
-   "category": "misc",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"wake-ful-ness\" - Related to 'wake'; wakefulness is simply the state of being awake and alert.",
    "example": "Too much caffeine late at night caused a night of wakefulness."
@@ -2819,7 +2843,7 @@
    "word": "bolstered",
    "equivalents": "supported, reinforced",
    "meaning": "strengthened or supported",
-   "category": "praise",
+   "category": "increase",
    "source": "chat",
    "mnemonic": "\"bol-ster-ed\" - Related to bolster (to support); something bolstered has been reinforced and strengthened.",
    "example": "New evidence bolstered the team's confidence in their theory."
@@ -2828,7 +2852,7 @@
    "word": "indemnified",
    "equivalents": "protected, insured",
    "meaning": "compensated for harm or loss",
-   "category": "misc",
+   "category": "money",
    "source": "chat",
    "mnemonic": "\"in-demn-ified\" sounds like \"in-damage-fied\" - Being protected against 'damage' means being indemnified, compensated for loss.",
    "example": "The insurance policy indemnified the company against storm damage."
@@ -2855,7 +2879,7 @@
    "word": "bridling",
    "equivalents": "resisting, resenting",
    "meaning": "showing anger or indignation, as if reining in a horse",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"bridle-ing\" - A horse straining against its 'bridle' (reins) shows bridling, resisting with resentment.",
    "example": "She bridled at the suggestion that her work was careless."
@@ -2864,7 +2888,7 @@
    "word": "adequately",
    "equivalents": "sufficiently",
    "meaning": "to a satisfactory extent",
-   "category": "misc",
+   "category": "quantity",
    "source": "chat",
    "mnemonic": "\"ad-equate-ly\" - Related to 'adequate'; adequately means to a sufficient, satisfactory extent.",
    "example": "The team had not adequately prepared for the sudden change in weather."
@@ -2882,7 +2906,7 @@
    "word": "succumb",
    "equivalents": "yield, surrender",
    "meaning": "to fail to resist pressure, giving way",
-   "category": "reduce",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"suc-cumb\" sounds like \"suck-come\" giving in - Getting sucked in and giving up, one succumbs, yields to pressure.",
    "example": "He finally succumbed to temptation and ordered dessert."
@@ -2891,7 +2915,7 @@
    "word": "retrospective",
    "equivalents": "reflective, backward-looking",
    "meaning": "looking back on or dealing with past events",
-   "category": "misc",
+   "category": "old",
    "source": "chat",
    "mnemonic": "\"retro-spective\" - 'Retro' means back; a retrospective look reflects back on past events.",
    "example": "The museum held a retrospective of the artist's fifty-year career."
@@ -2909,7 +2933,7 @@
    "word": "connotation",
    "equivalents": "implication, undertone",
    "meaning": "an idea or feeling a word invokes beyond its meaning",
-   "category": "misc",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"con-nota-tion\" sounds like \"con-note-tation\" - A note attached to a word beyond its dictionary meaning is its connotation, implied feeling.",
    "example": "The word 'home' has a warmer connotation than the word 'house'."
@@ -2927,7 +2951,7 @@
    "word": "nuance",
    "equivalents": "subtlety, shade of meaning",
    "meaning": "a subtle difference in meaning or expression",
-   "category": "misc",
+   "category": "clear",
    "source": "chat",
    "mnemonic": "\"nu-ance\" sounds like \"new-ance\" shade - A new shade of meaning is a nuance, a subtle difference.",
    "example": "The translator worked hard to preserve every nuance of the original poem."
@@ -2963,7 +2987,7 @@
    "word": "stentorian",
    "equivalents": "loud, booming",
    "meaning": "(of a voice) extremely loud and powerful",
-   "category": "misc",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"Stentor\" - Named after Stentor, a Greek herald famous for his powerful voice; stentorian tones are extremely loud.",
    "example": "The sergeant's stentorian voice could be heard across the entire parade ground."
@@ -2990,7 +3014,7 @@
    "word": "incongruous",
    "equivalents": "inconsistent, out of place",
    "meaning": "not in harmony, strange or out of place",
-   "category": "unclear",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"In-congress\" - In congress, harmony lacked after they lost the election.",
    "example": "The vast economic inequality of modern society is incongruous with America's ideals."
@@ -3017,7 +3041,7 @@
    "word": "presumptive",
    "equivalents": "assumed, inferred",
    "meaning": "presumed to be true until proven otherwise",
-   "category": "misc",
+   "category": "belief",
    "source": "chat",
    "mnemonic": "\"pre-sump-tive\" sounds like \"pre-assumed\" - Something assumed before being confirmed is presumptive, presumed true.",
    "example": "The presumptive nominee was already campaigning as if he'd won."
@@ -3026,7 +3050,7 @@
    "word": "preternatural",
    "equivalents": "abnormal, supernatural",
    "meaning": "beyond what is normal or natural",
-   "category": "misc",
+   "category": "unclear",
    "source": "chat",
    "mnemonic": "\"preter-natural\" sounds like \"beyond-natural\" - 'Preter' means beyond; preternatural abilities go beyond what is natural.",
    "example": "The chess prodigy showed a preternatural talent for strategy."
@@ -3035,7 +3059,7 @@
    "word": "dichotomies",
    "equivalents": "contrasts, divisions",
    "meaning": "divisions between two sharply distinct things",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"di-chotomy\" - 'Di' means two; a dichotomy is a division into two sharply contrasting parts.",
    "example": "The novel explores the dichotomy between duty and desire."
@@ -3044,7 +3068,7 @@
    "word": "ascribed",
    "equivalents": "attributed, credited",
    "meaning": "regarded as being caused by or belonging to",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"a-scribe-d\" - A scribe writes something down and attributes it to a source, just as we ascribe a cause to an effect.",
    "example": "The invention was ascribed to a lesser-known engineer, not the famous one."
@@ -3053,7 +3077,7 @@
    "word": "rhetoric",
    "equivalents": "oratory, persuasive language",
    "meaning": "language designed to persuade or impress",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"rhet-oric\" sounds like \"ret-oratoric\" - Related to orator; rhetoric is the persuasive language of skilled speakers.",
    "example": "His fiery rhetoric energized the crowd, even if the plan was vague."
@@ -3080,7 +3104,7 @@
    "word": "didacticism",
    "equivalents": "moralizing tendency",
    "meaning": "the practice of teaching, often overly moralistic",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"didact-icism\" - Related to 'didactic' (teaching); didacticism is an overly moralizing, teaching-focused approach.",
    "example": "Critics found the film's heavy didacticism preachy rather than entertaining."
@@ -3089,7 +3113,7 @@
    "word": "iconoclasm",
    "equivalents": "rebellion against tradition",
    "meaning": "attacking cherished beliefs or institutions",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"icon-o-clasm\" - Related to iconoclastic; iconoclasm is the act of attacking cherished traditions or symbols.",
    "example": "The band's iconoclasm shocked the conservative music industry."
@@ -3152,7 +3176,7 @@
    "word": "acerbic",
    "equivalents": "biting, caustic",
    "meaning": "sharp and forthright in speech",
-   "category": "hostile",
+   "category": "criticism",
    "source": "chat",
    "mnemonic": "\"a-cerb-ic\" sounds like \"acid-bic\" sharp - A sharp, acidic tone in speech is acerbic, biting and caustic.",
    "example": "His acerbic wit made him both feared and admired in the newsroom."
@@ -3242,7 +3266,7 @@
    "word": "convoluted",
    "equivalents": "complicated, intricate",
    "meaning": "extremely complex and difficult to follow",
-   "category": "unclear",
+   "category": "mix",
    "source": "chat",
    "mnemonic": "\"con-volute-d\" sounds like \"con-revolve-uted\" - Something that revolves round and round on itself is convoluted, overly complex.",
    "example": "The instructions were so convoluted that nobody could assemble the shelf."
@@ -3251,7 +3275,7 @@
    "word": "fanciful",
    "equivalents": "imaginative, whimsical",
    "meaning": "existing only in the imagination",
-   "category": "misc",
+   "category": "arts",
    "source": "chat",
    "mnemonic": "\"fanci-ful\" - Full of 'fancy' (imagination); fanciful stories exist mostly in the imagination.",
    "example": "The children loved her fanciful tales of dragons and hidden kingdoms."
@@ -3350,7 +3374,7 @@
    "word": "placid",
    "equivalents": "calm, tranquil",
    "meaning": "not easily upset or excited",
-   "category": "careful",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"plac-id\" sounds like \"placid lake\" calm - A perfectly calm lake surface is placid, tranquil and undisturbed.",
    "example": "The placid lake reflected the mountains like a mirror."
@@ -3359,7 +3383,7 @@
    "word": "restive",
    "equivalents": "restless, agitated",
    "meaning": "unable to keep still or silent, impatient",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"rest-ive\" sounds like \"can't-rest-ive\" - Someone who can't rest and grows impatient is restive, agitated.",
    "example": "The restive crowd grew louder as the delay stretched past an hour."
@@ -3368,7 +3392,7 @@
    "word": "skittish",
    "equivalents": "nervous, jumpy",
    "meaning": "easily startled or frightened",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"skit-tish\" sounds like \"skit-away-ish\" - An animal that skits away at the smallest noise is skittish, easily startled.",
    "example": "The skittish horse bolted at the sound of the thunder."
@@ -3377,7 +3401,7 @@
    "word": "tranquil",
    "equivalents": "calm, peaceful",
    "meaning": "free from disturbance",
-   "category": "careful",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"tran-quil\" sounds like \"tranquilize-quiet\" - A tranquilizer calms you into a tranquil, peaceful state.",
    "example": "The garden was a tranquil escape from the noisy city streets."
@@ -3521,7 +3545,7 @@
    "word": "bolster",
    "equivalents": "support, reinforce",
    "meaning": "to support or strengthen",
-   "category": "praise",
+   "category": "increase",
    "source": "chat",
    "mnemonic": "\"bol-ster\" sounds like \"bull-ster\" propping up - A pillow-like bolster props up and supports whatever leans on it.",
    "example": "The new hires were meant to bolster the understaffed department."
@@ -3548,7 +3572,7 @@
    "word": "rumination",
    "equivalents": "contemplation, reflection",
    "meaning": "deep or considered thought about something",
-   "category": "misc",
+   "category": "belief",
    "source": "chat",
    "mnemonic": "\"rumin-ation\" sounds like \"ruminant\" cow chewing cud - A cow chewing its cud over and over resembles rumination, repeated deep thought.",
    "example": "Long walks gave her time for quiet rumination on the day's events."
@@ -3557,7 +3581,7 @@
    "word": "posthumous",
    "equivalents": "after death",
    "meaning": "occurring or continuing after one's death",
-   "category": "misc",
+   "category": "old",
    "source": "chat",
    "mnemonic": "\"post-hum-ous\" - 'Post' means after; a posthumous award is given after someone's death.",
    "example": "The soldier received a posthumous medal for his bravery."
@@ -3602,7 +3626,7 @@
    "word": "inured",
    "equivalents": "hardened, accustomed",
    "meaning": "having become accustomed to something unpleasant",
-   "category": "misc",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"in-ured\" sounds like \"in-endured\" - Someone who has 'endured' hardship long enough becomes inured, hardened to it.",
    "example": "Years on the battlefield had inured him to the sound of gunfire."
@@ -3665,7 +3689,7 @@
    "word": "contravene",
    "equivalents": "violate, breach",
    "meaning": "to act in violation of a rule or law",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"contra-vene\" - 'Contra' means against; to contravene a rule is to act directly against it.",
    "example": "The company's actions contravened international trade agreements."
@@ -3674,7 +3698,7 @@
    "word": "infringe",
    "equivalents": "violate, encroach",
    "meaning": "to actively break a law or rule",
-   "category": "tradition",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"in-fringe\" - Crossing the 'fringe' (edge) of a rule is to infringe, actively break it.",
    "example": "Copying the design without permission would infringe on the patent."
@@ -3683,7 +3707,7 @@
    "word": "slender",
    "equivalents": "slim, meager",
    "meaning": "thin, or barely sufficient",
-   "category": "misc",
+   "category": "quantity",
    "source": "chat",
    "mnemonic": "\"slen-der\" sounds like \"slim-der\" - Slender describes something thin, or barely sufficient in amount.",
    "example": "The evidence for his claim was slender at best."
@@ -3701,7 +3725,7 @@
    "word": "coincided",
    "equivalents": "overlapped, aligned",
    "meaning": "occurred at the same time or place",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"co-incide-d\" sounds like \"co-inside-d\" - Two events landing inside the same moment coincided, occurred together.",
    "example": "Her birthday coincided with the town's annual festival."
@@ -3719,7 +3743,7 @@
    "word": "impassioned",
    "equivalents": "fervent, passionate",
    "meaning": "filled with or showing intense emotion",
-   "category": "bold",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"im-passion-ed\" - Filled with 'passion'; an impassioned speech shows intense emotion.",
    "example": "He gave an impassioned plea for the city to save the old theater."
@@ -3728,7 +3752,7 @@
    "word": "dolorous",
    "equivalents": "sorrowful, mournful",
    "meaning": "feeling or expressing great sorrow",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"dolor-ous\" sounds like \"dollar-ous\" grief - Losing every dollar could bring on dolorous, mournful, feelings.",
    "example": "The dolorous music matched the funeral's somber mood."
@@ -3755,7 +3779,7 @@
    "word": "expedience",
    "equivalents": "practicality, convenience",
    "meaning": "action in one's own interest rather than principle",
-   "category": "misc",
+   "category": "society",
    "source": "chat",
    "mnemonic": "\"ex-pedi-ence\" sounds like \"expedite-ence\" - Choosing the quickest, most convenient path shows expedience, practicality over principle.",
    "example": "The decision was made purely out of expedience, not fairness."
@@ -3809,7 +3833,7 @@
    "word": "warp",
    "equivalents": "distort, twist",
    "meaning": "to bend or twist out of shape",
-   "category": "fake",
+   "category": "changeable",
    "source": "chat",
    "mnemonic": "\"warp\" sounds like \"wrap-warp\" bending - Wood left in the sun will warp, bending and twisting out of shape.",
    "example": "The heat caused the wooden floorboards to warp."
@@ -3827,7 +3851,7 @@
    "word": "veracity",
    "equivalents": "truthfulness, accuracy",
    "meaning": "conformity to facts, accuracy",
-   "category": "fake",
+   "category": "clear",
    "source": "chat",
    "mnemonic": "\"vera-city\" sounds like \"very-honest-city\" - A city known for very honest citizens values veracity, truthfulness.",
    "example": "The journalist double-checked every fact to ensure the veracity of her report."
@@ -3845,7 +3869,7 @@
    "word": "estrangement",
    "equivalents": "alienation, separation",
    "meaning": "the state of being no longer close to someone",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"e-strange-ment\" - Related to 'strange'; estrangement makes someone feel like a stranger, distant and separated.",
    "example": "Years of estrangement finally ended when the brothers reconciled."
@@ -3854,7 +3878,7 @@
    "word": "subversion",
    "equivalents": "undermining, sabotage",
    "meaning": "an attempt to overthrow or destabilize a system",
-   "category": "hostile",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"sub-version\" sounds like \"sub-reverse-ion\" - Working underground to reverse a system's power is subversion, undermining it.",
    "example": "The regime cracked down on any hint of political subversion."
@@ -3872,7 +3896,7 @@
    "word": "straddling",
    "equivalents": "spanning, bridging",
    "meaning": "extending across or existing on both sides of",
-   "category": "misc",
+   "category": "mix",
    "source": "chat",
    "mnemonic": "\"strad-dling\" - To straddle is to stand with one leg on each side; straddling two categories means spanning both.",
    "example": "The film straddles the line between comedy and tragedy."
@@ -3944,7 +3968,7 @@
    "word": "subvert",
    "equivalents": "undermine, overthrow",
    "meaning": "to undermine the power of an established system",
-   "category": "hostile",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"sub-vert\" - 'Sub' means under; to subvert is to work under the surface to undermine a system.",
    "example": "The hackers tried to subvert the company's security protocols."
@@ -3971,7 +3995,7 @@
    "word": "irreverent",
    "equivalents": "disrespectful, flippant",
    "meaning": "not showing proper respect",
-   "category": "criticism",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"ir-reverent\" - The opposite of reverent (respectful); irreverent humor mocks what's usually treated with respect.",
    "example": "The comedian's irreverent jokes about politicians got the crowd roaring."
@@ -3998,7 +4022,7 @@
    "word": "transit",
    "equivalents": "passage, transportation",
    "meaning": "the act of passing through or across",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"tran-sit\" - Related to 'transition'; transit is the act of passing through or across.",
    "example": "The goods were damaged somewhere in transit between the factory and the store."
@@ -4007,7 +4031,7 @@
    "word": "alien",
    "equivalents": "foreign, unfamiliar",
    "meaning": "belonging to a different place, strange",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"a-lien\" sounds like \"a-lien\" foreign attachment - Something foreign and unfamiliar, like a lien from another country, is alien.",
    "example": "The customs and food felt completely alien to the first-time traveler."
@@ -4025,7 +4049,7 @@
    "word": "rancor",
    "equivalents": "bitterness, resentment",
    "meaning": "deep-seated ill will or hatred",
-   "category": "hostile",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"ran-cor\" sounds like \"rancid-core\" - A rancid, rotten feeling deep in the core describes rancor, bitter resentment.",
    "example": "Years of rancor between the two families never fully healed."
@@ -4115,7 +4139,7 @@
    "word": "congregations",
    "equivalents": "assemblies, gatherings",
    "meaning": "groups of people assembled for a purpose",
-   "category": "misc",
+   "category": "society",
    "source": "chat",
    "mnemonic": "\"con-greg-ations\" - 'Greg' means flock; a congregation is a flock, or group, gathered together.",
    "example": "The church's congregations grew steadily over the decade."
@@ -4133,7 +4157,7 @@
    "word": "fiascoes",
    "equivalents": "disasters, failures",
    "meaning": "complete failures, especially of humiliating kind",
-   "category": "misc",
+   "category": "hostile",
    "source": "chat",
    "mnemonic": "\"fias-coes\" sounds like \"failure-coes\" - Related to fiasco; fiascoes are complete, humiliating failures.",
    "example": "The event was a series of fiascoes, from the venue mix-up to the power outage."
@@ -4142,7 +4166,7 @@
    "word": "condescension",
    "equivalents": "patronizing attitude",
    "meaning": "an attitude of superiority toward others",
-   "category": "criticism",
+   "category": "pride",
    "source": "chat",
    "mnemonic": "\"con-descend-sion\" - To 'descend' down to someone shows condescension, a patronizing attitude of superiority.",
    "example": "His condescension toward junior staff made him unpopular in the office."
@@ -4151,7 +4175,7 @@
    "word": "bizarre",
    "equivalents": "strange, odd",
    "meaning": "very strange or unusual",
-   "category": "misc",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"bi-zarre\" sounds like \"be-strange\" - Something so strange it barely seems real is bizarre, very unusual.",
    "example": "The bizarre noise turned out to be a bird stuck in the chimney."
@@ -4160,7 +4184,7 @@
    "word": "peculiarity",
    "equivalents": "oddity, quirk",
    "meaning": "a characteristic that is odd or unusual",
-   "category": "misc",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"pecul-iar-ity\" - Related to 'peculiar'; a peculiarity is an odd quirk unique to something.",
    "example": "One peculiarity of the old house was a staircase leading to nowhere."
@@ -4196,7 +4220,7 @@
    "word": "venal",
    "equivalents": "corruptible, mercenary",
    "meaning": "susceptible to bribery, open to corruption",
-   "category": "fake",
+   "category": "corrupt",
    "source": "chat",
    "mnemonic": "\"ven-al\" sounds like \"vend-al\" for sale - An official who can be bought, as if for sale, is venal, corruptible.",
    "example": "The venal customs officer accepted bribes without hesitation."
@@ -4223,7 +4247,7 @@
    "word": "modicum",
    "equivalents": "a small amount",
    "meaning": "a small quantity of something",
-   "category": "misc",
+   "category": "quantity",
    "source": "chat",
    "mnemonic": "\"mod-icum\" sounds like \"moderate-um\" - A moderate, small amount is a modicum, just a bit of something.",
    "example": "Even a modicum of effort would have improved the presentation."
@@ -4268,7 +4292,7 @@
    "word": "aptly",
    "equivalents": "fittingly, appropriately",
    "meaning": "in a manner that is suitable for the occasion",
-   "category": "misc",
+   "category": "clear",
    "source": "chat",
    "mnemonic": "\"apt-ly\" - Related to 'apt' (suitable); something described aptly is fittingly, appropriately worded.",
    "example": "The critic aptly described the film as 'visually stunning but emotionally hollow.'"
@@ -4286,7 +4310,7 @@
    "word": "immediacy",
    "equivalents": "urgency, directness",
    "meaning": "the quality of bringing something close, urgency",
-   "category": "misc",
+   "category": "brief",
    "source": "chat",
    "mnemonic": "\"im-media-cy\" sounds like \"no-middle-man-cy\" - Removing the middleman brings immediacy, urgency and directness.",
    "example": "Live broadcasts give news a sense of immediacy that print cannot match."
@@ -4295,7 +4319,7 @@
    "word": "idiosyncratic",
    "equivalents": "peculiar, distinctive",
    "meaning": "peculiar to an individual, distinctively unique",
-   "category": "misc",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"idio-syncratic\" sounds like \"idiot-synchronized\" - Something oddly synchronized only to one 'idiot's' own habits is idiosyncratic, peculiar to that individual.",
    "example": "His idiosyncratic writing style made his essays instantly recognizable."
@@ -4304,7 +4328,7 @@
    "word": "amenable",
    "equivalents": "agreeable, receptive",
    "meaning": "open and responsive to suggestion",
-   "category": "society",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"a-men-able\" sounds like \"agree-able\" - Someone amenable is agreeable, open to suggestions.",
    "example": "She was amenable to rescheduling the meeting for a better time."
@@ -4358,7 +4382,7 @@
    "word": "overweening",
    "equivalents": "arrogant, presumptuous",
    "meaning": "showing excessive confidence or pride",
-   "category": "criticism",
+   "category": "pride",
    "source": "chat",
    "mnemonic": "\"over-winning\" - A person who wins over and over again generally becomes 'arrogant' and overconfident, and now that person will help you remember this word!",
    "example": "Mark was so convinced of his basketball skills that in his overweening pride he could not fathom that his name was not on the varsity list; he walked up to the basketball coach and told her she had forgotten to add his name."
@@ -4367,7 +4391,7 @@
    "word": "countervailing",
    "equivalents": "offsetting, counterbalancing",
    "meaning": "having equal but opposite force or effect",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"counter-vailing\" sounds like \"counter-availing\" force - A counter force that avails against another is countervailing, offsetting it.",
    "example": "Rising wages provided a countervailing force against inflation's effects."
@@ -4376,7 +4400,7 @@
    "word": "avidity",
    "equivalents": "eagerness, enthusiasm",
    "meaning": "extreme enthusiasm or eagerness",
-   "category": "bold",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"avid-ity\" - Related to 'avid'; avidity is extreme eagerness or enthusiasm.",
    "example": "She read the letter with avidity, unable to wait another second."
@@ -4385,7 +4409,7 @@
    "word": "staunchness",
    "equivalents": "loyalty, steadfastness",
    "meaning": "firm and dependable loyalty",
-   "category": "bold",
+   "category": "fearless",
    "source": "chat",
    "mnemonic": "\"staunch-ness\" - Related to 'staunch' (firm); staunchness is unwavering loyalty and steadfastness.",
    "example": "His staunchness as an ally never wavered, even in hard times."
@@ -4394,7 +4418,7 @@
    "word": "hedonistic",
    "equivalents": "pleasure-seeking",
    "meaning": "devoted to the pursuit of pleasure",
-   "category": "misc",
+   "category": "pleasure",
    "source": "chat",
    "mnemonic": "\"hedon-istic\" sounds like \"heaven-istic\" pleasure - Chasing a personal heaven of pleasure describes hedonistic, pleasure-seeking, behavior.",
    "example": "Their hedonistic lifestyle revolved entirely around parties and luxury."
@@ -4565,7 +4589,7 @@
    "word": "forage",
    "equivalents": "search for food",
    "meaning": "to search widely for food or provisions",
-   "category": "misc",
+   "category": "nature",
    "source": "chat",
    "mnemonic": "\"for-age\" sounds like \"for-food\" search - Searching far and wide for food is to forage, gather provisions.",
    "example": "The bears forage for berries throughout the late summer."
@@ -4583,7 +4607,7 @@
    "word": "unexpurgated",
    "equivalents": "uncensored, complete",
    "meaning": "not having offensive material removed",
-   "category": "misc",
+   "category": "arts",
    "source": "chat",
    "mnemonic": "\"un-ex-purg-ated\" - The opposite of 'expurgated' (censored); an unexpurgated text keeps every original, uncensored word.",
    "example": "The publisher finally released the unexpurgated version of the classic novel."
@@ -4592,7 +4616,7 @@
    "word": "foibles",
    "equivalents": "quirks, weaknesses",
    "meaning": "minor weaknesses or eccentricities in character",
-   "category": "misc",
+   "category": "rebel",
    "source": "chat",
    "mnemonic": "\"foi-bles\" sounds like \"foil-bles\" small flaws - Small flaws you can shrug off, like a fencing foil's tiny bend, are foibles, minor quirks.",
    "example": "Everyone in the family accepted grandpa's foibles, like his obsession with clocks."
@@ -4610,7 +4634,7 @@
    "word": "premonitory",
    "equivalents": "warning, foreshadowing",
    "meaning": "giving advance warning of something",
-   "category": "misc",
+   "category": "foresee",
    "source": "chat",
    "mnemonic": "\"pre-monit-ory\" - Related to 'monitor', to warn; premonitory signs give advance warning of danger.",
    "example": "A premonitory chill ran down her spine before the accident happened."
@@ -4727,7 +4751,7 @@
    "word": "alacrity",
    "equivalents": "eagerness, briskness",
    "meaning": "brisk and cheerful readiness",
-   "category": "bold",
+   "category": "emotion",
    "source": "chat",
    "mnemonic": "\"à la carte\" - When you order 'à la carte' in a restaurant, you 'eagerly' wait for the order, and now that delicious order that you placed won't let you forget this word!",
    "example": "The first three weeks at his new job, Mark worked with such alacrity that upper management knew it would be giving him a promotion."
@@ -4754,7 +4778,7 @@
    "word": "shirk",
    "equivalents": "evade, avoid",
    "meaning": "to avoid or neglect a duty or responsibility",
-   "category": "criticism",
+   "category": "diligence",
    "source": "chat",
    "mnemonic": "\"shirk\" sounds like \"shirt-jerk\" avoiding work - Jerking off a work shirt to avoid a shift is to shirk, avoid a duty.",
    "example": "He was accused of shirking his responsibilities on the project."
@@ -4763,7 +4787,7 @@
    "word": "perturbed",
    "equivalents": "unsettled, agitated",
    "meaning": "anxious or unsettled by something",
-   "category": "emotion",
+   "category": "anger",
    "source": "chat",
    "mnemonic": "\"per-turb-ed\" sounds like \"per-turbulence-d\" - Caught in sudden turbulence, one becomes perturbed, unsettled and anxious.",
    "example": "She seemed perturbed by the unexpected question from the reporter."
@@ -4781,7 +4805,7 @@
    "word": "predicament",
    "equivalents": "dilemma, plight",
    "meaning": "a difficult, unpleasant, or embarrassing situation",
-   "category": "misc",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"pre-dic-ament\" sounds like \"pre-decide-ment\" - Being stuck before you can even decide what to do is a predicament, a tricky situation.",
    "example": "Losing his passport abroad left him in quite a predicament."
@@ -4790,7 +4814,7 @@
    "word": "quandary",
    "equivalents": "dilemma, impasse",
    "meaning": "a state of uncertainty over what to do",
-   "category": "misc",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"quan-dary\" sounds like \"question-dairy\" - Endless questions swirling like milk in a dairy churn describe a quandary, a state of uncertainty.",
    "example": "She was in a quandary over which job offer to accept."
@@ -4808,7 +4832,7 @@
    "word": "layperson",
    "equivalents": "non-expert, amateur",
    "meaning": "a person without professional or specialized knowledge",
-   "category": "misc",
+   "category": "skill",
    "source": "chat",
    "mnemonic": "\"lay-person\" - Someone outside the 'clergy' or a profession is a layperson, a non-expert.",
    "example": "The manual was written so even a layperson could understand it."
@@ -4826,7 +4850,7 @@
    "word": "sycophant",
    "equivalents": "flatterer, toady",
    "meaning": "a person who acts obsequiously toward someone powerful",
-   "category": "fake",
+   "category": "servile",
    "source": "chat",
    "mnemonic": "\"psycho-fan\" - A psycho fan 'tries to please' his favorite star in order to get close to him, and now that psycho fan will help you remember this word!",
    "example": "The CEO was unaware of the damaging consequences of his choices, largely because he surrounded himself with sycophants who would never dare criticize him."
@@ -4844,7 +4868,7 @@
    "word": "braggart",
    "equivalents": "boaster, show-off",
    "meaning": "a person who boasts about their achievements",
-   "category": "criticism",
+   "category": "pride",
    "source": "chat",
    "mnemonic": "\"brag-gart\" - Related to 'brag'; a braggart constantly boasts about their own achievements.",
    "example": "The braggart at the party wouldn't stop talking about his new car."
@@ -4880,7 +4904,7 @@
    "word": "aghast",
    "equivalents": "horrified, appalled",
    "meaning": "filled with horror or shock",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "chat",
    "mnemonic": "\"a-ghast\" sounds like \"a-ghost\" shock - Seeing a ghost would leave anyone aghast, horrified and shocked.",
    "example": "She stood aghast at the mess left behind after the party."
@@ -4934,7 +4958,7 @@
    "word": "meandering",
    "equivalents": "winding, rambling",
    "meaning": "following a winding course, or wandering aimlessly",
-   "category": "misc",
+   "category": "wordy",
    "source": "chat",
    "mnemonic": "\"me-ander-ing\" - Named after the winding Meander River; a meandering path or story wanders without a straight course.",
    "example": "The meandering river cut lazy curves through the valley."
@@ -4970,7 +4994,7 @@
    "word": "espousal",
    "equivalents": "adoption, advocacy",
    "meaning": "the action of supporting or adopting a cause",
-   "category": "praise",
+   "category": "belief",
    "source": "chat",
    "mnemonic": "\"es-pous-al\" - Related to espouse; an espousal is the act of adopting or supporting a cause.",
    "example": "His espousal of green energy policies won him support from young voters."
@@ -4979,7 +5003,7 @@
    "word": "rhetorical",
    "equivalents": "persuasive, oratorical",
    "meaning": "relating to the art of effective or persuasive speaking",
-   "category": "belief",
+   "category": "talk",
    "source": "chat",
    "mnemonic": "\"rhe-torical\" - Related to rhetoric; a rhetorical question is asked for persuasive effect, not a literal answer.",
    "example": "\"Who wouldn't want a raise?\" she asked, clearly a rhetorical question."
@@ -5006,7 +5030,7 @@
    "word": "utopian",
    "equivalents": "idealistic, visionary",
    "meaning": "modeled on an impossibly ideal society",
-   "category": "society",
+   "category": "belief",
    "source": "chat",
    "mnemonic": "\"u-topian\" - Related to 'Utopia', an imagined perfect society; utopian ideas are idealistically unrealistic.",
    "example": "His utopian vision of a world without conflict seemed hopelessly naive."
@@ -5024,7 +5048,7 @@
    "word": "concomitant",
    "equivalents": "accompanying, associated",
    "meaning": "naturally accompanying or associated with something",
-   "category": "misc",
+   "category": "relation",
    "source": "chat",
    "mnemonic": "\"con-com-itant\" sounds like \"co-accompany-tant\" - Something that comes along to accompany another is concomitant, naturally associated with it.",
    "example": "Rising prices are a concomitant effect of the supply shortage."
@@ -5033,7 +5057,7 @@
    "word": "profusion",
    "equivalents": "",
    "meaning": "the property of being extremely abundant",
-   "category": "increase",
+   "category": "quantity",
    "source": "doc3",
    "example": "When Maria reported that she had been visited by Jesus Christ and had proof, a profusion of reporters and journalists descended on the town.",
    "mnemonic": "\"profit-fusion\" - When you put small profits together (like a fusion), then you get a 'large number', which will make you feel happy as well as help you remember this word!"
@@ -5060,7 +5084,7 @@
    "word": "cohesive",
    "equivalents": "",
    "meaning": "well integrated, forming a united whole",
-   "category": "misc",
+   "category": "mix",
    "source": "doc3",
    "example": "A well-written, cohesive essay will keep on topic at all times, never losing sight of the main argument.",
    "mnemonic": "\"co-adhesive\" - If you associate this word with 'adhesive', a substance which is used to stick objects together, then you will never forget this word!"
@@ -5096,7 +5120,7 @@
    "word": "uncanny",
    "equivalents": "",
    "meaning": "suggesting the operation of supernatural influences; surpassing the ordinary or normal",
-   "category": "unclear",
+   "category": "rebel",
    "source": "doc3",
    "example": "Reggie has an uncanny ability to connect with animals: feral cats will readily approach him, and sometimes even wild birds will land on his finger.",
    "mnemonic": "\"un-can-doable\" - Anything that is natural and can be done could be called \"can-doable\", so \"un-can- doable\" can be related to something that is not natural or normal."
@@ -5132,7 +5156,7 @@
    "word": "miscreant",
    "equivalents": "",
    "meaning": "a person who breaks the law",
-   "category": "society",
+   "category": "corrupt",
    "source": "doc3",
    "example": "\"Come back you miscreant!\" yelled the woman who just had her purse stolen.",
    "mnemonic": "\"mistake-creator\" - The person who intentionally 'creates mistakes' is kind of miscreant."
@@ -5141,7 +5165,7 @@
    "word": "enumerate",
    "equivalents": "",
    "meaning": "determine the number or amount of",
-   "category": "skill",
+   "category": "clear",
    "source": "doc3",
    "example": "The survey enumerates the number of happy workers and the number of unhappy workers.",
    "mnemonic": "\"Number-rate\" - When we list something down, we take one at a time and number/rate them, which also how \"enumeration\" is done."
@@ -5168,7 +5192,7 @@
    "word": "sordid",
    "equivalents": "",
    "meaning": "involving ignoble actions and motives; arousing moral distaste and contempt; foul and run-down and repulsive",
-   "category": "criticism",
+   "category": "corrupt",
    "source": "doc3",
    "example": "The nightly news simply announced that the senator had had an affair, but the tabloid published all the sordid details of the interaction.",
    "mnemonic": "It feels and means like \"sour-deed\" i.e. sour (bad) deed or actions."
@@ -5195,7 +5219,7 @@
    "word": "debunk",
    "equivalents": "",
    "meaning": "expose as false ideas and claims, especially while ridiculing",
-   "category": "criticism",
+   "category": "belief",
    "source": "doc3",
    "example": "Richard Dawkins tries to debunk religious belief, but his ridicule tends to push people away from his points rather than convince them.",
    "mnemonic": "\"Debug-junk\" - When we debug (or analyze) some junk or superstitious beliefs, we 'expose the false stories' behind them."
@@ -5213,7 +5237,7 @@
    "word": "misogynist",
    "equivalents": "",
    "meaning": "a person who dislikes women in particular",
-   "category": "society",
+   "category": "hostile",
    "source": "doc3",
    "example": "Many have accused Hemingway of being a quiet misogynist, but recently unearthed letters argue against this belief.",
    "mnemonic": "\"Miss-\" - This word kind of starts with 'Miss', so you can remember that it has something to do with 'women'!"
@@ -5240,7 +5264,7 @@
    "word": "amply",
    "equivalents": "",
    "meaning": "more than is adequate",
-   "category": "increase",
+   "category": "quantity",
    "source": "doc3",
    "example": "The boat was amply supplied for its year at sea, no man would go hungry or thirsty.",
    "mnemonic": "It can be easily remembered by associating it with word \"ample\" which means the same!"
@@ -5258,7 +5282,7 @@
    "word": "malodorous",
    "equivalents": "",
    "meaning": "having an unpleasant smell",
-   "category": "misc",
+   "category": "hostile",
    "source": "doc3",
    "example": "Some thermally active fountains spew sulfur fumes--the air around them is sometimes so malodorous that many have to plug their noses.",
    "mnemonic": "It feels and means like \"mal-odour-ous\"!"
@@ -5276,7 +5300,7 @@
    "word": "lascivious",
    "equivalents": "",
    "meaning": "lecherous; sexually perverted",
-   "category": "criticism",
+   "category": "pleasure",
    "source": "doc3",
    "example": "Lolita is a challenging novel for many, not necessarily because of the elevated prose style but because of the depravity of the main character, Humbert Humbert, who, as an old, lascivious man, lusts after a girl.",
    "mnemonic": "It feels and means like \"lust-vious\"."
@@ -5330,7 +5354,7 @@
    "word": "diatribe",
    "equivalents": "",
    "meaning": "a strong verbal attack against a person or institution",
-   "category": "wordy",
+   "category": "criticism",
    "source": "doc3",
    "example": "Steve's mom launched into a diatribe during the PTA meeting, contending that the school was little more than a daycare in which students stare at the wall and teachers stare at the chalkboard.",
    "mnemonic": "\"di-tribe\" - People belonging to different 'tribes' sometimes 'verbally attack' and abuse each other, and now those verbal fights won't let you forget this word!"
@@ -5384,7 +5408,7 @@
    "word": "arrant",
    "equivalents": "",
    "meaning": "complete and wholly (usually modifying a noun with negative connotation)",
-   "category": "misc",
+   "category": "quantity",
    "source": "doc3",
    "example": "An arrant fool, Lawrence surprised nobody when he lost all his money in a pyramid scheme that was every bit as transparent as it was corrupt.",
    "mnemonic": "\"a-rant\" - When a person rants about a topic then he looks like an 'arrant' fool, and now that kind of person won't let you forget this word!"
@@ -5402,7 +5426,7 @@
    "word": "supercilious",
    "equivalents": "",
    "meaning": "haughty and disdainful; looking down on others",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "Nelly felt the Quiz Bowl director acted superciliously towards the underclassmen; really, she fumed, must he act so preternaturally omniscient each time he intones some obscure fact, as though everybody knows that Mt. Aconcagua is the highest peak in South America.",
    "mnemonic": "\"super-feel-us\" - When we feel ourselves to be superior to others, we are 'supercilious', and now that superiority complex will help us remember this word!"
@@ -5510,7 +5534,7 @@
    "word": "sybarite",
    "equivalents": "",
    "meaning": "a person who indulges in luxury",
-   "category": "money",
+   "category": "pleasure",
    "source": "doc3",
    "example": "Despite the fact that he'd maxed out fifteen credit cards, Max was still a sybarite at heart: when the police found him, he was at a $1,000 an hour spa in Manhattan, getting a facial treatment.",
    "mnemonic": "\"cyber-IT\" - People working in the cyber IT industry are usually fond of 'luxuries', and now those people will help you remember this word!"
@@ -5528,7 +5552,7 @@
    "word": "umbrage",
    "equivalents": "",
    "meaning": "a feeling of anger caused by being offended",
-   "category": "emotion",
+   "category": "anger",
    "source": "doc3",
    "example": "Since he was so in love with her, he took umbrage at her comments, even though she had only meant to gently tease him.",
    "mnemonic": "\"Umbrella-rage\" - I felt angry when I offered an umbrella to a girl during rain but she denied which kind of 'offended' me and will always remind me of this word."
@@ -5537,7 +5561,7 @@
    "word": "anemic",
    "equivalents": "",
    "meaning": "lacking energy and vigor",
-   "category": "boring",
+   "category": "reduce",
    "source": "doc3",
    "example": "After three straight shows, the lead actress gave an anemic performance the fourth night, barely speaking loudly enough for those in the back rows to hear.",
    "mnemonic": "\"anemia\" - A person suffering from anemia (deficiency of red blood cells) usually feels 'weak' and 'lacks energy'."
@@ -5573,7 +5597,7 @@
    "word": "solecism",
    "equivalents": "",
    "meaning": "a socially awkward or tactless act",
-   "category": "misc",
+   "category": "skill",
    "source": "doc3",
    "example": "Mother Anna was always on guard against any solecism from her children and scolded them immediately if any of them talked out of place in public.",
    "mnemonic": "\"sole-cism\" - When someone lives 'sole'ly or alone, away from the society, then that is considered 'socially awkward'."
@@ -5636,7 +5660,7 @@
    "word": "ribald",
    "equivalents": "",
    "meaning": "humorously vulgar",
-   "category": "misc",
+   "category": "pleasure",
    "source": "doc3",
    "example": "The speaker was famous for his ribald humor, but the high school principal asked him to keep the talk G-rated when he spoke to the student body.",
    "mnemonic": "\"re-bald\" - It was 'humorously vulgar' when he asked his friend to get bald again."
@@ -5645,7 +5669,7 @@
    "word": "lacerate",
    "equivalents": "",
    "meaning": "deeply hurt the feelings of; distress",
-   "category": "criticism",
+   "category": "hostile",
    "source": "doc3",
    "example": "The teacher was fired for lacerating a student who wrote a poor essay.",
    "mnemonic": "\"less-rate\" - Imagine that your boss rates you less in front of others, then your 'feelings will be hurt' for sure, and now that boss won't let you forget this word!"
@@ -5654,7 +5678,7 @@
    "word": "cosset",
    "equivalents": "",
    "meaning": "treat with excessive indulgence",
-   "category": "kind",
+   "category": "pleasure",
    "source": "doc3",
    "example": "The king and queen cosseted the young prince, giving him a prized miniature pony for his fifth birthday.",
    "mnemonic": "\"costly-set\" - Her husband gave her a very \"costly necklace set\" on their anniversary showing his excessive indulgence for her, and now that costly set will help you remember this word!"
@@ -5663,7 +5687,7 @@
    "word": "peripatetic",
    "equivalents": "",
    "meaning": "traveling by foot",
-   "category": "tradition",
+   "category": "nature",
    "source": "doc3",
    "example": "Jim always preferred a peripatetic approach to discovering a city: he felt that he could see so many more details while walking.",
    "mnemonic": "\"Pair-patetic\" - 'Pair' is an Indian word which means 'legs' and now this non-English word will help you remember this English word!"
@@ -5717,7 +5741,7 @@
    "word": "presentiment",
    "equivalents": "",
    "meaning": "a feeling of evil to come",
-   "category": "belief",
+   "category": "foresee",
    "source": "doc3",
    "example": "On the night that Lincoln would be fatally shot, his wife had a presentiment about going to Ford's Theater, but Lincoln persuaded her that everything would be fine.",
    "mnemonic": "It feels and means like \"pre-sentiment\" i.e. feeling beforehand."
@@ -5735,7 +5759,7 @@
    "word": "celerity",
    "equivalents": "",
    "meaning": "speed, rapidity",
-   "category": "misc",
+   "category": "brief",
    "source": "doc3",
    "example": "We aim to respond to customers' questions with celerity and accuracy, with no longer than a 24 hour wait time.",
    "mnemonic": "\"celebrity\" - Robert Pattinson is one of the celebrities who became famous very \"speedily\" because of the movie Twilight,... and now he won't let you forget this word!"
@@ -5753,7 +5777,7 @@
    "word": "imperious",
    "equivalents": "",
    "meaning": "having or showing arrogant superiority to and disdain of those one views as unworthy",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "Children are imperious with each other before they learn that earning someone's respect is better than demanding.",
    "mnemonic": "\"I-am-precious\" - One of my friends is very 'arrogant' and he thinks that he is very 'precious', and now that friend of mine will help you remember this word!"
@@ -5780,7 +5804,7 @@
    "word": "hubris",
    "equivalents": "",
    "meaning": "overbearing pride or presumption",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "Bill Clinton was criticized for his hubris, since he believed he could get away with anything once in the White House.",
    "mnemonic": "\"hubby-rich\" - Since her hubby is very rich, she has got 'excessive pride' and now she won't let you forget this word!"
@@ -5825,7 +5849,7 @@
    "word": "magisterial",
    "equivalents": "",
    "meaning": "offensively self-assured or given to exercising unwarranted power",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "Though she was only a third grade teacher, Ms. Martinet was magisterial in dealing with her class, lording over them like a queen.",
    "mnemonic": "If you associate this word with some powerful and cruel \"magistrate\", then you will never forget this word!"
@@ -5915,7 +5939,7 @@
    "word": "empiricism",
    "equivalents": "",
    "meaning": "any method that derives knowledge from experience, used in experimental science as a way to gain insight and knowledge",
-   "category": "belief",
+   "category": "nature",
    "source": "doc3",
    "example": "Empiricism does not always lead to knowledge; an experience or experiment may raise more questions than it answers.",
    "mnemonic": "\"emperors-precision\" - The precision with which emperors rule the kingdom comes from their 'past experience' and those emperors won't let you forget this word!"
@@ -5942,7 +5966,7 @@
    "word": "languish",
    "equivalents": "",
    "meaning": "become feeble",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "doc3",
    "example": "Stranded in the wilderness for four days, the hiker languished, eating protein bars and nuts.",
    "mnemonic": "\"lacking-wish\" - After his mom's death he lacked the wish to live and became languish."
@@ -5969,7 +5993,7 @@
    "word": "arrogate",
    "equivalents": "",
    "meaning": "seize and control without authority",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "Arriving at the small town, the outlaw arrogated the privileges of a lord, asking the frightened citizens to provide food, drink, and entertainment.",
    "mnemonic": "\"arrogant\" - Many arrogant people try to 'control things without any authority', and now those kind of people will help you remember this word!"
@@ -6023,7 +6047,7 @@
    "word": "haughty",
    "equivalents": "",
    "meaning": "having or showing arrogant superiority to and disdain of those one views as unworthy",
-   "category": "bold",
+   "category": "pride",
    "source": "doc3",
    "example": "The haughty manager didn't believe that any of his subordinates could ever have an insight as brilliant as his own.",
    "mnemonic": "\"hot-teen\" - Hot teens usually consider themselves much 'superior' to others."
@@ -6032,7 +6056,7 @@
    "word": "forlorn",
    "equivalents": "",
    "meaning": "marked by or showing hopelessness",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "doc3",
    "example": "After her third pet dog died, Marcia was simply forlorn: this time even the possibility of buying a new dog no longer held any joy.",
    "mnemonic": "\"forever-alone\" - One of my friends was simply 'forlorn' or 'hopeless' after his girl-friend left him alone forever."
@@ -6050,7 +6074,7 @@
    "word": "tantamount",
    "equivalents": "",
    "meaning": "being essentially equal to something",
-   "category": "clear",
+   "category": "relation",
    "source": "doc3",
    "example": "In many situations, remaining silent is tantamount to admitting guilt, so speak to prove your innocence.",
    "mnemonic": "\"tentative-amount\" - In most of the cases, tentative amount 'is equal to' the final amount."
@@ -6176,7 +6200,7 @@
    "word": "idiosyncrasy",
    "equivalents": "",
    "meaning": "a behavioral attribute that is distinctive and peculiar to an individual",
-   "category": "arts",
+   "category": "rebel",
    "source": "doc3",
    "example": "Peggy's numerous idiosyncrasies include wearing mismatched shoes, laughing loudly to herself, and owning a pet aardvark.",
    "mnemonic": "It feels and means like \"idiot-psycho- crazy\"."
@@ -6257,7 +6281,7 @@
    "word": "ravenous",
    "equivalents": "",
    "meaning": "extremely hungry; devouring or craving food in great quantities",
-   "category": "emotion",
+   "category": "pleasure",
    "source": "doc3",
    "example": "John didn't eat much at all during the week he had the flu, so now that he is regaining his health, it's not surprising that he has a ravenous appetite.",
    "mnemonic": "\"Ravan\" - Ravan was a king of Lanka (in ancient epic Ramayana) who was 'extremely hungry' for power, and now Ravan will help you remember this word!"
@@ -6266,7 +6290,7 @@
    "word": "myriad",
    "equivalents": "",
    "meaning": "a large indefinite number",
-   "category": "increase",
+   "category": "quantity",
    "source": "doc3",
    "example": "There are a myriad of internet sites hawking pills that claim to boost energy for hours on end.",
    "mnemonic": "\"Pyramid\" - Pyramids have 'indefinite number' of steps, and now those steps won't let you forget this word!"
@@ -6347,7 +6371,7 @@
    "word": "impending",
    "equivalents": "",
    "meaning": "close in time; about to occur",
-   "category": "changeable",
+   "category": "foresee",
    "source": "doc3",
    "example": "The impending doom of our world has been discussed and debated for 2000 years, maybe even longer.",
    "mnemonic": "It feels and means like \"i'm pending\"!"
@@ -6500,7 +6524,7 @@
    "word": "anomalous",
    "equivalents": "",
    "meaning": "not normal",
-   "category": "changeable",
+   "category": "rebel",
    "source": "doc3",
    "example": "According to those who do not believe in climate change, the extreme weather over the last five years is simply anomalous, daily temperatures should return to their old averages, they believe.",
    "mnemonic": "It's like pronouncing \"ab-normal\" with b silent!"
@@ -6617,7 +6641,7 @@
    "word": "prescience",
    "equivalents": "",
    "meaning": "the power to foresee the future",
-   "category": "belief",
+   "category": "foresee",
    "source": "doc3",
    "example": "Baxter's warnings about investing in technology stocks seemed like an act of prescience after the whole market declined significantly.",
    "mnemonic": "\"priests-sense\" - Some priests can sense 'what is going to happen next'. Those priests will always remind you the meaning of this word!"
@@ -6743,7 +6767,7 @@
    "word": "squander",
    "equivalents": "waste, dissipate, fritter away",
    "meaning": "to waste money, time, or resources carelessly or irresponsibly",
-   "category": "corrupt",
+   "category": "money",
    "source": "list",
    "mnemonic": "\"squander\" sounds like \"squad wander\" — picture a whole squad of workers just wandering off the job, squandering the company's payroll on nothing.",
    "example": "The heir squandered his inheritance on yachts and parties within a single decade."
@@ -6815,7 +6839,7 @@
    "word": "mendicant",
    "equivalents": "beggar, supplicant, panhandler",
    "meaning": "a beggar; one who lives by begging, often for religious reasons",
-   "category": "servile",
+   "category": "money",
    "source": "list",
    "mnemonic": "\"mendicant\" contains \"mend\" — a mendicant's clothes are so worn they need mending, since he owns nothing but what strangers give him.",
    "example": "Mendicant monks traveled from village to village, relying entirely on the charity of strangers."
@@ -6851,7 +6875,7 @@
    "word": "stoic",
    "equivalents": "impassive, unflappable, dispassionate",
    "meaning": "indifferent to pleasure or pain; enduring hardship without complaint",
-   "category": "fearless",
+   "category": "emotion",
    "source": "list",
    "mnemonic": "The Stoics were ancient philosophers who taught that a wise person stays calm no matter what fate throws at them — being stoic means facing hardship with that same unshaken calm.",
    "example": "The captain remained stoic even as the storm tore a hole in the mainsail."
@@ -6860,7 +6884,7 @@
    "word": "imperturbable",
    "equivalents": "unflappable, unshakable, composed",
    "meaning": "marked by extreme calm and steadiness, even under pressure",
-   "category": "fearless",
+   "category": "emotion",
    "source": "list",
    "mnemonic": "\"imperturbable\" = \"im-\" (not) + \"perturb\" (to disturb) — literally, incapable of being perturbed, no matter how hard the crisis tries.",
    "example": "The surgeon's imperturbable manner reassured the whole trembling family in the waiting room."
@@ -7094,7 +7118,7 @@
    "word": "nice",
    "equivalents": "precise, exacting, fastidious",
    "meaning": "(in its older sense) extremely precise or careful, especially about small details",
-   "category": "skill",
+   "category": "clear",
    "source": "list",
    "mnemonic": "This is the old-fashioned GRE meaning, not \"pleasant\" — think of a \"nice distinction,\" one so fine and precise it takes real skill to even notice it.",
    "example": "The contract hinges on a nice distinction between \"may\" and \"shall\" that most readers would never catch."
@@ -7310,7 +7334,7 @@
    "word": "aggrandize",
    "equivalents": "magnify, amplify, exalt",
    "meaning": "to increase someone's power, status, or reputation, often beyond what is deserved",
-   "category": "increase",
+   "category": "pride",
    "source": "list",
    "mnemonic": "\"aggrandize\" contains \"grand\" — to aggrandize yourself is to puff yourself up until you look grand, bigger and more important than you really are.",
    "example": "The self-aggrandizing memoir credited him with ideas his own team had actually developed."
@@ -7391,7 +7415,7 @@
    "word": "obtuse",
    "equivalents": "dense, slow-witted, imperceptive",
    "meaning": "annoyingly slow to understand or perceive something obvious; mentally dull",
-   "category": "unclear",
+   "category": "skill",
    "source": "list",
    "mnemonic": "In geometry, an obtuse angle is a blunt, wide, un-sharp angle — an obtuse person's thinking is just as blunt, missing the sharp point everyone else sees clearly.",
    "example": "He'd have to be willfully obtuse not to notice everyone rolling their eyes at his jokes."
@@ -7418,7 +7442,7 @@
    "word": "eloquent",
    "equivalents": "articulate, fluent, expressive",
    "meaning": "fluent and persuasive in speaking or writing; clearly and vividly expressive",
-   "category": "clear",
+   "category": "talk",
    "source": "list",
    "mnemonic": "\"eloquent\" comes from \"e-\" (out) + \"loqui\" (to speak) — an eloquent speaker lets ideas flow effortlessly out, crystal clear and persuasive.",
    "example": "Her eloquent closing argument moved several jurors to tears."
@@ -7481,7 +7505,7 @@
    "word": "effrontery",
    "equivalents": "nerve, audacity, impudence",
    "meaning": "bold, shameless, and disrespectful behavior or speech",
-   "category": "bold",
+   "category": "pride",
    "source": "list",
    "mnemonic": "\"effrontery\" contains \"front,\" as in a bold, unashamed \"front\" — someone with effrontery shows an unflinching front, brazenly unbothered by how rude they're being.",
    "example": "He had the effrontery to ask for a raise the same week he missed three deadlines."
@@ -7490,7 +7514,7 @@
    "word": "impudent",
    "equivalents": "insolent, brazen, cheeky",
    "meaning": "not showing due respect for another person; shamelessly bold",
-   "category": "bold",
+   "category": "pride",
    "source": "list",
    "mnemonic": "\"impudent\" = \"im-\" (not) + \"pudere\" (to feel shame) — an impudent remark comes from someone with, literally, no shame to hold them back.",
    "example": "The impudent intern corrected the CEO's grammar in front of the whole boardroom."
@@ -7742,7 +7766,7 @@
    "word": "portentous",
    "equivalents": "ominous, foreboding, threatening",
    "meaning": "signaling that something bad or momentous is about to happen; ominous",
-   "category": "hostile",
+   "category": "foresee",
    "source": "list",
    "mnemonic": "\"portentous\" contains \"portent,\" an omen — a portentous sky, dark and heavy, is a portent warning that a storm of trouble is coming.",
    "example": "A portentous silence fell over the newsroom just before the breaking alert came through."
@@ -7958,7 +7982,7 @@
    "word": "melancholy",
    "equivalents": "sadness, gloom, wistfulness",
    "meaning": "a deep, thoughtful sadness or gloominess",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"melancholy\" comes from \"melan-\" (black) + \"chole\" (bile) — ancient physicians blamed sadness on an excess of black bile, giving us this word for a deep, dark gloom.",
    "example": "A quiet melancholy settled over the house once the last guest had gone."
@@ -7967,7 +7991,7 @@
    "word": "morose",
    "equivalents": "sullen, gloomy, glum",
    "meaning": "sullen, gloomy, and ill-tempered",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"morose\" sounds like \"more rose\" thorns than petals — a morose person seems to notice only the thorns in life, gloomy and withdrawn.",
    "example": "He'd been morose ever since the layoffs were announced, barely speaking at lunch."
@@ -7976,7 +8000,7 @@
    "word": "plaintive",
    "equivalents": "mournful, wistful, sorrowful",
    "meaning": "sounding sad and mournful",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"plaintive\" contains \"plaint,\" as in \"complaint\" — a plaintive cry is a mournful complaint against the world, sad rather than angry.",
    "example": "A plaintive violin melody drifted from the open window down the street."
@@ -7985,7 +8009,7 @@
    "word": "poignant",
    "equivalents": "touching, moving, affecting",
    "meaning": "evoking a keen sense of sadness or regret; deeply moving",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"poignant\" contains \"point\" (\"poindre,\" to prick) — a poignant scene pricks you right in the heart, sharp and emotionally affecting.",
    "example": "The film's most poignant moment was a single, silent glance between the two old friends."
@@ -7994,7 +8018,7 @@
    "word": "timorous",
    "equivalents": "timid, fearful, apprehensive",
    "meaning": "showing timidity and fear; easily frightened",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"timorous\" contains \"timid\" and \"terror\" — a timorous voice trembles with a little terror behind every word.",
    "example": "The timorous new hire barely spoke above a whisper during her first team meeting."
@@ -8012,7 +8036,7 @@
    "word": "lachrymose",
    "equivalents": "tearful, weepy, mournful",
    "meaning": "tending to cry easily; causing tears",
-   "category": "emotion",
+   "category": "sorrow",
    "source": "list",
    "mnemonic": "\"lachrymose\" contains \"lacrima\" (tear, as in \"lachrymal\" glands, which produce tears) — anything lachrymose is soaked straight through with tears.",
    "example": "By the film's lachrymose final scene, half the theater was reaching for tissues."
@@ -8084,7 +8108,7 @@
    "word": "profuse",
    "equivalents": "abundant, lavish, copious",
    "meaning": "given or occurring in large, generous, or excessive amounts",
-   "category": "money",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"profuse\" comes from \"pro-\" (forth) + \"fundere\" (to pour) — profuse spending pours forth without limit, like a tap left running.",
    "example": "He offered profuse apologies along with a full refund for the ruined order."
@@ -8111,7 +8135,7 @@
    "word": "eccentric",
    "equivalents": "unconventional, quirky, idiosyncratic",
    "meaning": "unconventional and slightly strange in behavior or appearance",
-   "category": "tradition",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "\"eccentric\" = \"ec-\" (out of) + \"centr-\" (center) — an eccentric person is simply off-center from the conventional norm everyone else orbits around.",
    "example": "The eccentric professor kept a taxidermied owl on his desk and refused to use email."
@@ -8120,7 +8144,7 @@
    "word": "fractious",
    "equivalents": "unruly, rebellious, cranky",
    "meaning": "irritable and difficult to control; unruly or quarrelsome",
-   "category": "tradition",
+   "category": "anger",
    "source": "list",
    "mnemonic": "\"fractious\" contains \"fracture\" — a fractious group threatens to fracture apart, refusing to fall in line with the rest.",
    "example": "The fractious coalition nearly collapsed before finally agreeing on a compromise budget."
@@ -8129,7 +8153,7 @@
    "word": "heretical",
    "equivalents": "unorthodox, dissenting, blasphemous",
    "meaning": "believing or teaching something that goes against accepted doctrine or convention",
-   "category": "tradition",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "\"heretical\" contains \"heresy\" — any heretical idea breaks from established belief the same way a heretic breaks from official church doctrine.",
    "example": "Her heretical theory about the painting's true origin outraged the museum's senior curators."
@@ -8138,7 +8162,7 @@
    "word": "heterodox",
    "equivalents": "unorthodox, unconventional, dissenting",
    "meaning": "not conforming to accepted or orthodox beliefs, especially in religion or philosophy",
-   "category": "tradition",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "\"hetero-\" (different) + \"dox-\" (opinion, as in \"orthodox\") — heterodox views are simply different from the accepted opinion of the day.",
    "example": "The economist's heterodox views on trade were dismissed for years before the crisis proved him right."
@@ -8147,7 +8171,7 @@
    "word": "iconoclast",
    "equivalents": "rebel, nonconformist, dissenter",
    "meaning": "a person who attacks or criticizes cherished traditions, institutions, or beliefs",
-   "category": "tradition",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "\"icono-\" (image) + \"clast\" (to break, as in \"iconoclasm,\" the literal smashing of religious icons) — an iconoclast smashes tradition's sacred images just as literally as they once smashed statues.",
    "example": "The architect built her reputation as an iconoclast, ignoring every rule of \"proper\" design."
@@ -8156,7 +8180,7 @@
    "word": "maverick",
    "equivalents": "nonconformist, independent, rebel",
    "meaning": "an independent-minded person who refuses to conform to a group or party",
-   "category": "tradition",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "The word comes from Samuel Maverick, a rancher who famously left his cattle unbranded — a maverick refuses the group's \"brand\" and goes their own way.",
    "example": "The maverick senator crossed party lines on nearly every major vote."
@@ -8228,7 +8252,7 @@
    "word": "perfidy",
    "equivalents": "treachery, betrayal, disloyalty",
    "meaning": "deliberate breach of faith or trust; treachery",
-   "category": "belief",
+   "category": "corrupt",
    "source": "list",
    "mnemonic": "\"perfidy\" = \"per-\" (through) + \"fides\" (faith, as in \"fidelity\") — perfidy is a betrayal that cuts straight through the faith someone placed in you.",
    "example": "The general's perfidy — secretly negotiating with the enemy — cost him his command and his honor."
@@ -8309,7 +8333,7 @@
    "word": "inherent",
    "equivalents": "intrinsic, innate, built-in",
    "meaning": "existing as an essential, permanent, or characteristic part of something",
-   "category": "nature",
+   "category": "relation",
    "source": "list",
    "mnemonic": "\"inherent\" = \"in-\" (in) + \"haerere\" (to stick, as in \"adhere\") — an inherent trait is stuck permanently inside something, part of its very nature.",
    "example": "There's an inherent risk in any investment, no matter how carefully you research it."
@@ -8426,7 +8450,7 @@
    "word": "anachronism",
    "equivalents": "time-slip, historical error, misplacement",
    "meaning": "something or someone placed in the wrong historical time period",
-   "category": "misc",
+   "category": "old",
    "source": "list",
    "mnemonic": "\"ana-\" (against) + \"chronos\" (time, as in \"chronology\") — an anachronism goes against the proper timeline, like a wristwatch showing up in a movie about ancient Rome.",
    "example": "The knight's stainless-steel sword was an obvious anachronism in an otherwise carefully researched film."
@@ -8435,7 +8459,7 @@
    "word": "ambiguity",
    "equivalents": "vagueness, uncertainty, equivocation",
    "meaning": "the quality of having more than one possible meaning or interpretation",
-   "category": "misc",
+   "category": "unclear",
    "source": "list",
    "mnemonic": "\"ambi-\" (both) + \"agere\" (to drive) — ambiguity drives your interpretation both ways at once, unable to settle on a single meaning.",
    "example": "The contract's ambiguity over \"reasonable time\" led to a two-year legal dispute."
@@ -8444,7 +8468,7 @@
    "word": "alchemy",
    "equivalents": "transformation, transmutation, magic",
    "meaning": "a seemingly magical process of transformation; historically, the medieval practice of trying to turn base metals into gold",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "Medieval alchemists dreamed of turning lead into gold — call any surprising transformation \"alchemy\" and you're borrowing that same sense of magical change.",
    "example": "Through some financial alchemy, the failing mall was reborn as the city's trendiest apartment complex."
@@ -8453,7 +8477,7 @@
    "word": "amalgamate",
    "equivalents": "merge, combine, fuse",
    "meaning": "to combine or unite several elements into a single whole",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"amalgamate\" contains \"amalgam,\" the mercury alloy dentists once used for fillings — just as an amalgam fuses metals together, to amalgamate is to fuse separate things into one.",
    "example": "The two rival unions finally amalgamated into a single, more powerful organization."
@@ -8462,7 +8486,7 @@
    "word": "alloy",
    "equivalents": "blend, mixture, composite",
    "meaning": "a mixture of two or more elements, especially metals; (as a verb) to weaken by mixing with something inferior",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "Bronze is a classic alloy of copper and tin — remember that an alloy is always a mix, whether it's strengthening metal or (as a verb) diluting something pure.",
    "example": "Sterling silver is actually an alloy, mixed with copper to make it more durable."
@@ -8471,7 +8495,7 @@
    "word": "byzantine",
    "equivalents": "labyrinthine, convoluted, intricate",
    "meaning": "excessively complicated, especially in a way that makes something hard to understand or navigate",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "The Byzantine Empire's court was famous for its endlessly complex politics and intrigue — anything \"byzantine\" today borrows that same tangled, hard-to-follow complexity.",
    "example": "Getting a permit required navigating the city's byzantine approval process across five different departments."
@@ -8480,7 +8504,7 @@
    "word": "epitome",
    "equivalents": "embodiment, quintessence, archetype",
    "meaning": "a perfect example or embodiment of a quality or type",
-   "category": "misc",
+   "category": "clear",
    "source": "list",
    "mnemonic": "\"epitome\" contains \"epi-\" (upon) + \"tome\" (a cut or section) — think of it as the one perfect cut that represents the whole, the epitome of the entire thing.",
    "example": "With its marble columns and grand staircase, the mansion was the epitome of Gilded Age excess."
@@ -8489,7 +8513,7 @@
    "word": "exemplar",
    "equivalents": "model, paragon, archetype",
    "meaning": "a person or thing that serves as a typical or ideal example of something",
-   "category": "misc",
+   "category": "praise",
    "source": "list",
    "mnemonic": "\"exemplar\" contains \"example\" — an exemplar is the example everyone else is measured against.",
    "example": "The old lighthouse keeper's cottage is often cited as the exemplar of coastal New England architecture."
@@ -8498,7 +8522,7 @@
    "word": "multifaceted",
    "equivalents": "many-sided, complex, versatile",
    "meaning": "having many different aspects, qualities, or sides",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"multi-\" (many) + \"facet\" (a cut surface of a gem) — like a diamond with many facets catching the light differently, a multifaceted issue has many different angles.",
    "example": "The city's housing crisis is multifaceted, tangled up with zoning, wages, and construction costs all at once."
@@ -8507,7 +8531,7 @@
    "word": "multifarious",
    "equivalents": "diverse, varied, manifold",
    "meaning": "having great variety or diversity; many and varied",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"multi-\" (many) + \"farious\" (from \"facere,\" to make) — something multifarious has been made in so many different ways that it defies a single description.",
    "example": "The museum's multifarious collection ranges from Roman coins to modern digital art."
@@ -8516,7 +8540,7 @@
    "word": "synthesis",
    "equivalents": "combination, fusion, integration",
    "meaning": "the combination of separate parts or ideas to form a coherent whole",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"syn-\" (together) + \"thesis\" (a placing) — synthesis is placing separate ideas together until they form one unified whole.",
    "example": "Her dissertation offered a fresh synthesis of two fields that had rarely spoken to each other."
@@ -8525,7 +8549,7 @@
    "word": "sundry",
    "equivalents": "various, miscellaneous, assorted",
    "meaning": "of various kinds; several different, separate items",
-   "category": "misc",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "Think of a \"sundries\" shelf at a drugstore — a little of everything, sundry items that don't fit any single category.",
    "example": "The garage sale table was covered in sundry tools, old records, and mismatched dishware."
@@ -8534,7 +8558,7 @@
    "word": "plethora",
    "equivalents": "abundance, surplus, glut",
    "meaning": "a very large or excessive amount of something",
-   "category": "misc",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"plethora\" comes from Greek \"plethein\" (to be full) — a plethora is a container filled far past what's needed, an overflowing surplus.",
    "example": "The new streaming service launched with a plethora of shows but almost no way to find the good ones."
@@ -8543,7 +8567,7 @@
    "word": "dearth",
    "equivalents": "scarcity, shortage, lack",
    "meaning": "a scarcity or lack of something",
-   "category": "misc",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"dearth\" sounds like \"dear\" (expensive) — when something is scarce, it becomes dear and hard to get, exactly what a dearth describes.",
    "example": "The town suffered a dearth of affordable housing even as luxury condos went up downtown."
@@ -8552,7 +8576,7 @@
    "word": "paucity",
    "equivalents": "scarcity, shortage, dearth",
    "meaning": "the presence of something in only small or insufficient quantities",
-   "category": "misc",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"paucity\" contains \"paucus\" (few, as in \"paucal\") — a paucity of evidence means simply too few facts to go on.",
    "example": "The paucity of reliable data made it nearly impossible to predict the outbreak's spread."
@@ -8561,7 +8585,7 @@
    "word": "sparse",
    "equivalents": "scant, meager, scattered",
    "meaning": "thinly scattered or distributed; not dense",
-   "category": "misc",
+   "category": "quantity",
    "source": "list",
    "mnemonic": "\"sparse\" sounds like \"spread thin\" across a space — sparse population, sparse vegetation, sparse hair: whatever it is, it's spread thin.",
    "example": "Traffic was sparse on the highway at that early hour."
@@ -8570,7 +8594,7 @@
    "word": "paradox",
    "equivalents": "contradiction, incongruity, puzzle",
    "meaning": "a statement or situation that seems self-contradictory but may nonetheless be true",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"para-\" (contrary to) + \"doxa\" (opinion) — a paradox runs contrary to common opinion, even while somehow still holding true.",
    "example": "It's a strange paradox that the busiest people often seem to have the most free time."
@@ -8579,7 +8603,7 @@
    "word": "paradigm",
    "equivalents": "model, framework, template",
    "meaning": "a typical example or pattern of something; a framework of shared assumptions within a field",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"paradigm\" contains \"para-\" (beside) + \"deigma\" (a sample shown) — a paradigm is the sample shown beside everything else, the model pattern the whole field follows.",
    "example": "The discovery of plate tectonics represented a total paradigm shift in geology."
@@ -8588,7 +8612,7 @@
    "word": "nexus",
    "equivalents": "link, connection, hub",
    "meaning": "a connection or series of connections linking two or more things; a central point",
-   "category": "misc",
+   "category": "mix",
    "source": "list",
    "mnemonic": "\"nexus\" comes from \"nectere\" (to bind, as in \"connect\") — a nexus is the exact point where separate threads bind together into one hub.",
    "example": "The port city became a nexus of trade between three continents."
@@ -8597,7 +8621,7 @@
    "word": "axiom",
    "equivalents": "principle, maxim, truism",
    "meaning": "a statement widely accepted as true without needing proof",
-   "category": "misc",
+   "category": "belief",
    "source": "list",
    "mnemonic": "\"axiom\" comes from \"axios\" (worthy) — an axiom is a truth so worthy and self-evident that no proof is even required.",
    "example": "\"Supply and demand\" is one of the oldest axioms in economics."
@@ -8606,7 +8630,7 @@
    "word": "singular",
    "equivalents": "exceptional, remarkable, unique",
    "meaning": "extraordinarily good, great, or unusual; distinct from others",
-   "category": "misc",
+   "category": "rebel",
    "source": "list",
    "mnemonic": "Beyond grammar (singular vs. plural), remember that something singular stands alone, one of a kind, remarkable precisely because there's nothing else quite like it.",
    "example": "The violinist's singular talent was obvious from her very first note."
